@@ -1,0 +1,7995 @@
+// 机械基础题库 - 580题
+// 由HTML页面通过<script>标签加载
+window.QBANK = [
+  {
+    "id": 1,
+    "chapter": "带传动与链传动",
+    "type": "单选题",
+    "question": "摩擦式带传动主要是依靠（ ）来传递运动和功率的。",
+    "options": [
+      "带的紧边拉力",
+      "带的初拉力",
+      "带和带轮接触面之间的摩擦力",
+      "带和带轮之间的正压力"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 2,
+    "chapter": "带传动与链传动",
+    "type": "单选题",
+    "question": "带在工作时产生弹性滑动，是由于（ ）。",
+    "options": [
+      "带绕过带轮产生离心力",
+      "带的紧边与松边拉力不等",
+      "带不是绝对挠性件",
+      "带传动会打滑"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 3,
+    "chapter": "带传动与链传动",
+    "type": "单选题",
+    "question": "属于啮合传动类的带传动是（ ）。",
+    "options": [
+      "平带传动",
+      "同步带传动",
+      "圆带传动",
+      "V带传动"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 4,
+    "chapter": "带传动与链传动",
+    "type": "单选题",
+    "question": "平带、V带传动传递运动和动力主要是依靠（ ）。",
+    "options": [
+      "带的松边拉力",
+      "带的预紧力",
+      "带的紧边拉力",
+      "带和带轮接触面间的摩擦力"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 5,
+    "chapter": "带传动与链传动",
+    "type": "单选题",
+    "question": "带传动中，弹性滑动（ ）。",
+    "options": [
+      "在张紧力足够时可以避免",
+      "是不可避免",
+      "在小带轮包角足够大时可以避免",
+      "在传递功率较小时可以避免"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 6,
+    "chapter": "带传动与链传动",
+    "type": "单选题",
+    "question": "与平带传动相比较，V带传动的优点是（ ）。",
+    "options": [
+      "带的寿命长",
+      "传动效率高",
+      "带的价格便宜",
+      "承载能力大"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 7,
+    "chapter": "带传动与链传动",
+    "type": "单选题",
+    "question": "带传动的主要失效形式为（ ）。",
+    "options": [
+      "带的颤动和弹性滑动",
+      "带的松弛和弹性滑动",
+      "带的疲劳破坏和打滑",
+      "带的弹性滑动和打滑"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 8,
+    "chapter": "带传动与链传动",
+    "type": "单选题",
+    "question": "正常工作的带传动不能保证准确的传动比是因为（ ）。",
+    "options": [
+      "弹性滑动",
+      "弹性滑动和打滑",
+      "打滑",
+      "以上皆不对"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 9,
+    "chapter": "带传动与链传动",
+    "type": "单选题",
+    "question": "带传动采用张紧轮的目的是（ ）。",
+    "options": [
+      "改变带的运动方向",
+      "减轻带的弹性滑动",
+      "提高带的寿命",
+      "调节带的初拉力"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 10,
+    "chapter": "带传动与链传动",
+    "type": "单选题",
+    "question": "带传动依靠（ ）实现过载保护。",
+    "options": [
+      "弹性滑动",
+      "打滑",
+      "以上均可",
+      "带的弹性"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 11,
+    "chapter": "带传动与链传动",
+    "type": "单选题",
+    "question": "（ ）是带传动中所固有的物理现象，是不可避免的。",
+    "options": [
+      "弹性滑动",
+      "打滑",
+      "松驰",
+      "疲劳破坏"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 12,
+    "chapter": "带传动与链传动",
+    "type": "单选题",
+    "question": "滚子链传动的最主要的参数是（ ）。",
+    "options": [
+      "链排距",
+      "销轴直径",
+      "滚子外径",
+      "链节距"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 13,
+    "chapter": "带传动与链传动",
+    "type": "单选题",
+    "question": "带传动采用张紧轮的目的是（ ）。",
+    "options": [
+      "提高带的寿命",
+      "减轻带的弹性滑动",
+      "调节带的初拉力",
+      "改变带的运动方向"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 14,
+    "chapter": "带传动与链传动",
+    "type": "多选题",
+    "question": "滚子链的传动比一般小于8，是因为传动比过大，容易造成（ ）。",
+    "options": [
+      "啮合齿数少",
+      "破坏正常啮合",
+      "小链轮的包角过小",
+      "容易跳齿"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 15,
+    "chapter": "带传动与链传动",
+    "type": "多选题",
+    "question": "汽车中常用的链轮结构形式有（ ）。",
+    "options": [
+      "轮辐式链轮",
+      "组合式链轮",
+      "实心式链轮",
+      "孔板式链轮"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 16,
+    "chapter": "带传动与链传动",
+    "type": "多选题",
+    "question": "链条的失效形式有（ ）。",
+    "options": [
+      "链条胶合",
+      "链条磨损",
+      "静力拉断",
+      "疲劳破坏"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 17,
+    "chapter": "带传动与链传动",
+    "type": "多选题",
+    "question": "链传动按用途不同可分为（ ）。",
+    "options": [
+      "起重链",
+      "传动链",
+      "输送链",
+      "齿形链"
+    ],
+    "answer": "ABC",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 18,
+    "chapter": "带传动与链传动",
+    "type": "判断题",
+    "question": "两轴线水平安装的链传动中，紧边宜放在上面。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 19,
+    "chapter": "带传动与链传动",
+    "type": "判断题",
+    "question": "带传动的失效形式主要有弹性滑动和打滑。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 20,
+    "chapter": "带传动与链传动",
+    "type": "判断题",
+    "question": "带传动按工作原理分为摩擦带和啮合带两种。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 21,
+    "chapter": "带传动与链传动",
+    "type": "判断题",
+    "question": "曲轴的链轮比凸轮轴链轮直径要大。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 22,
+    "chapter": "带传动与链传动",
+    "type": "判断题",
+    "question": "带的打滑和带的弹性滑动是同一概念。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 23,
+    "chapter": "带传动与链传动",
+    "type": "判断题",
+    "question": "考虑V带弯曲时横截面的变形，带轮的槽角应小于V带横截面的楔角。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 24,
+    "chapter": "带传动与链传动",
+    "type": "判断题",
+    "question": "滚子链链节数一般选择奇数较好。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 25,
+    "chapter": "带传动与链传动",
+    "type": "判断题",
+    "question": "V带的公称楔角通常为30°。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 26,
+    "chapter": "带传动与链传动",
+    "type": "判断题",
+    "question": "带在工作时产生弹性滑动的原因是带与带轮之间的摩擦系数较小。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 27,
+    "chapter": "带传动与链传动",
+    "type": "判断题",
+    "question": "由于带是挠性体，传动中能缓和冲击和振动，所以工作平稳，噪音小。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 28,
+    "chapter": "带传动与链传动",
+    "type": "判断题",
+    "question": "链传动张紧轮应设置在松边外侧靠近小链轮处。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 29,
+    "chapter": "带传动与链传动",
+    "type": "判断题",
+    "question": "带传动一般安装在传动系统的高速级，带轮的转速较高。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 30,
+    "chapter": "带传动与链传动",
+    "type": "判断题",
+    "question": "V带传动不能保证准确的传动比，其原因是弹性滑动以及带容易变形和磨损。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 31,
+    "chapter": "带传动与链传动",
+    "type": "判断题",
+    "question": "正时链安装时必须将链条和链轮的正时记号对准，否则将影响发动机工作。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 32,
+    "chapter": "带传动与链传动",
+    "type": "判断题",
+    "question": "带传动不可用于油垢、高温、易燃和易爆的场合。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 33,
+    "chapter": "带传动与链传动",
+    "type": "判断题",
+    "question": "在带传动中，弹性滑动是不可避免的，打滑是可以避免的。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 34,
+    "chapter": "带传动与链传动",
+    "type": "判断题",
+    "question": "带传动的张紧轮通常安装在松边外侧靠近小轮处。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 35,
+    "chapter": "带传动与链传动",
+    "type": "判断题",
+    "question": "带轮一般由轮毂、轮缘和轮辐三部分组成。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 36,
+    "chapter": "带传动与链传动",
+    "type": "判断题",
+    "question": "V带传动属于摩擦式带传动。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 37,
+    "chapter": "带传动与链传动",
+    "type": "判断题",
+    "question": "带传动的弹性滑动是不可以避免的。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 38,
+    "chapter": "带传动与链传动",
+    "type": "判断题",
+    "question": "两带轮直径一定时，减小中心距将引起带的弹性滑动加剧。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 39,
+    "chapter": "带传动与链传动",
+    "type": "判断题",
+    "question": "V带传动是靠带与带轮接触面间的正压力工作的。V带的工作面是底面。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 40,
+    "chapter": "带传动与链传动",
+    "type": "判断题",
+    "question": "带传动的打滑是不可避免的。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 41,
+    "chapter": "带传动与链传动",
+    "type": "判断题",
+    "question": "摩擦式带传动按截面形状不同可分为圆带、平带、V带和啮合带4类。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 42,
+    "chapter": "带传动与链传动",
+    "type": "判断题",
+    "question": "为了节省成本，换带时只需更换不能使用的传动带即可。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 43,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "轴承与轴组成的转动副属于（ ）副。",
+    "options": [
+      "中",
+      "大",
+      "低",
+      "高"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 44,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "机构具有确定运动的条件是机构原动件的数目W（ ）机构自由度数目F。",
+    "options": [
+      "不一定",
+      "等于",
+      "大于",
+      "小于"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 45,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "铰链四杆机构的一个连架杆能作整周回转，另一个连架杆能作往复摆动，该机构是（ ）。",
+    "options": [
+      "曲柄摇杆机构",
+      "双曲柄机构",
+      "双摇杆机构",
+      "曲柄滑块机构"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 46,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "活塞式内燃机就是（ ）最典型的应用实例。",
+    "options": [
+      "双曲柄机构",
+      "双摇杆机构",
+      "曲柄滑块机构",
+      "摇块机构"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 47,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "下列铰链四杆机构中，能实现急回运动的是（ ）。",
+    "options": [
+      "双摇杆机构",
+      "曲柄摇杆机构",
+      "双曲柄机构",
+      "对心曲柄滑块机构"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 48,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "机构中的固定构件称为（ ）。",
+    "options": [
+      "主动件",
+      "机架",
+      "连架杆",
+      "从动件"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 49,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "一对心曲柄滑块机构，若以滑块为机架时，则将演化成（ ）机构。",
+    "options": [
+      "曲柄滑块",
+      "导杆机构",
+      "摇块机构",
+      "定块机构"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 50,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "能作整周回转的连架杆是（ ）。",
+    "options": [
+      "机架",
+      "摇杆",
+      "连杆",
+      "曲柄"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 51,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "在如图所示的齿轮—凸轮轴系中，键2称为（ ）。",
+    "options": [
+      "零件",
+      "机构",
+      "构件",
+      "部件"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": "![第九题示意图](https://raw.githubusercontent.com/1145225/idn/refs/heads/main/%E7%AC%AC%E4%B9%9D%E9%A2%98.jpg)"
+  },
+  {
+    "id": 52,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "运动构件分为（ ）（ ）。",
+    "options": [
+      "专用件和通用件",
+      "固定件和运动件",
+      "移动件和转动件",
+      "主动件和从动件"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 53,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "四连杆机构中，当传动角γ较大时，则（ ）。",
+    "options": [
+      "机构的传力性能较好",
+      "机构的传力性能较差",
+      "可以满足机构的自锁要求",
+      "机构的效率较低"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 54,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "一个构件的平面自由度有（ ）个。",
+    "options": [
+      "3",
+      "1",
+      "4",
+      "2"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 55,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "在铰链四杆机构中，有可能出现死点的机构是（ ）机构。",
+    "options": [
+      "双曲柄",
+      "双摇杆",
+      "曲柄摇杆"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 56,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "机器中各运动单元称为（ ）。",
+    "options": [
+      "零件",
+      "部件",
+      "机件",
+      "构件"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 57,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "铰链四杆机构中，当满足（ ）条件时，机构才可能会有曲柄存在。",
+    "options": [
+      "最短杆+最长杆≥其余两杆之和",
+      "最短杆+最长杆≤其余两杆之和",
+      "最短杆+最长杆>其余两杆之和",
+      "最短杆+最长杆<其余两杆之和"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 58,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "曲柄滑块机构有死点时，其主动件为（ ）。",
+    "options": [
+      "曲柄",
+      "滑块",
+      "以上皆可",
+      "以上皆非"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 59,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "若两构件组成低副，则其接触形式为（ ）。",
+    "options": [
+      "面接触",
+      "点或线接触",
+      "点或面接触",
+      "线或面接触"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 60,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "在曲柄摇杆机构中，当（ ）处于共线位置时，出现最小传动角。",
+    "options": [
+      "曲柄与连杆",
+      "曲柄与机架",
+      "摇杆与机架"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 61,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "下列铰链四杆机构中，能实现急回运动的是（ ）。",
+    "options": [
+      "双摇杆机构",
+      "曲柄摇杆机构",
+      "双曲柄机构",
+      "对心曲柄滑块机构"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 62,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "在曲柄摇杆机构中，当摇杆为无限长时，曲柄摇杆机构演化为（ ）机构。",
+    "options": [
+      "双摇杆机构",
+      "双曲柄机构",
+      "曲柄滑块机构",
+      "曲柄摇块机构"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 63,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "铰链四杆机构中，不与机架相连的构件称为（ ）。",
+    "options": [
+      "曲柄",
+      "连架",
+      "连杆",
+      "摇杆"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 64,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "内燃机中的曲柄滑块机构正常工作时以（ ）为主动件。",
+    "options": [
+      "滑块",
+      "导杆",
+      "曲柄",
+      "连杆"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 65,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "四杆长度不等的双曲柄机构，若主动曲柄匀速转动时，从动曲柄作（ ）。",
+    "options": [
+      "匀速转动",
+      "变速转动",
+      "同速转动",
+      "间歇转动"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 66,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "汽车的转向系属于以下哪部分？（ ）",
+    "options": [
+      "发动机",
+      "车身",
+      "底盘",
+      "电器设备"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 67,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "曲柄摇杆机构中，以曲柄为主动件时，死点位置为（ ）。",
+    "options": [
+      "曲柄与连杆共线时",
+      "曲柄与摇杆共线时",
+      "摇杆与连杆共线时",
+      "不存在"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 68,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "内燃机配气机构属于（ ）机构。",
+    "options": [
+      "凸轮",
+      "不完全齿轮",
+      "棘轮",
+      "槽轮"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 69,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "发动机活塞与气缸体所组成的运动副为（ ）副。",
+    "options": [
+      "移动",
+      "高",
+      "转动",
+      "中"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 70,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "平面机构的自由度计算公式为（ ）。",
+    "options": [],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 71,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "铰链四杆机构ABCD的各杆长度分别为AB=40、BC=90、CD=55、AD=100，若以AB为机架，则为（ ）机构。",
+    "options": [
+      "双曲柄机构",
+      "双摇杆机构",
+      "曲柄摇杆机构",
+      "曲柄滑块机构"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 72,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "一对心曲柄滑块机构，若以曲柄为机架时，则将演化成（ ）机构。",
+    "options": [
+      "曲柄滑块",
+      "导杆机构",
+      "摇块机构",
+      "定块机构"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 73,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "在铰链四杆机构中的两连架杆都为曲柄，那么该机构就称为（ ）。",
+    "options": [
+      "双摇杆机构",
+      "双曲柄机构",
+      "曲柄滑块机构",
+      "曲柄摇杆机构"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 74,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "发动机中，曲柄和连杆所组成的是（ ）。",
+    "options": [
+      "曲柄滑块机构",
+      "双摇杆机构",
+      "曲柄摇杆机构",
+      "双曲柄机构"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 75,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "曲柄滑块机构是由（ ）演化而来的。",
+    "options": [
+      "曲柄摇杆机构",
+      "双曲柄机构",
+      "双摇杆机构"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 76,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "汽车前轮转向机构实际上是一个（ ）。",
+    "options": [
+      "曲柄摇杆机构",
+      "双曲柄机构",
+      "双摇杆机构",
+      "平行四边形机构"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 77,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "我们把各部分之间具有确定的相对运动构件的组合称为（ ）。",
+    "options": [
+      "机器",
+      "机构",
+      "机械",
+      "机床"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 78,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "自动货车翻斗机构实际上是一个（ ）。",
+    "options": [
+      "铰链四杆机构",
+      "曲柄滑块机构",
+      "定块机构",
+      "摇块机构"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 79,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "平面运动副可分为（ ）。",
+    "options": [
+      "移动副和转动副",
+      "接触副和非接触副",
+      "低副和高副",
+      "自由副和非自由副"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 80,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "一对心曲柄滑块机构，若以连杆为机架时，则将演化成（ ）机构。",
+    "options": [
+      "曲柄滑块",
+      "导杆机构",
+      "摇块机构",
+      "定块机构"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 81,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "在曲柄滑块机构中，如果将滑块作为机架，则演化为（ ）。",
+    "options": [
+      "摇块机构",
+      "曲柄连杆机构",
+      "曲柄滑块机构",
+      "定块机构"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 82,
+    "chapter": "平面连杆机构",
+    "type": "单选题",
+    "question": "在铰链四杆机构中的两连架杆，如果一个为曲柄，另一个为摇杆，那么该机构就称为（ ）。",
+    "options": [
+      "双曲柄机构",
+      "曲柄滑块机构",
+      "曲柄摇杆机构",
+      "双摇杆机构"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 83,
+    "chapter": "平面连杆机构",
+    "type": "多选题",
+    "question": "在运动副中，面接触的运动副是（ ）副，点、线接触的运动副是（ ）副。",
+    "options": [
+      "高",
+      "低",
+      "滚动",
+      "中"
+    ],
+    "answer": "AB",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 84,
+    "chapter": "平面连杆机构",
+    "type": "多选题",
+    "question": "汽车的基本结构都由（ ）部分组成。",
+    "options": [
+      "车身",
+      "发动机",
+      "底盘",
+      "电器部分"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 85,
+    "chapter": "平面连杆机构",
+    "type": "多选题",
+    "question": "曲柄滑块机构由（ ）组成。",
+    "options": [
+      "机架",
+      "曲柄",
+      "滑块",
+      "连杆"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 86,
+    "chapter": "平面连杆机构",
+    "type": "多选题",
+    "question": "铰链四杆机构按曲柄存在的情况，分为（ ）、（ ）和（ ）三种基本形式。",
+    "options": [
+      "曲柄滑块机构",
+      "双摇杆机构",
+      "曲柄摇杆机构",
+      "双曲柄机构"
+    ],
+    "answer": "BCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 87,
+    "chapter": "平面连杆机构",
+    "type": "多选题",
+    "question": "一部完整的机器，就其功能而言，可分为（ ）。",
+    "options": [
+      "执行部分",
+      "传动部分",
+      "动力部分",
+      "控制部分"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 88,
+    "chapter": "平面连杆机构",
+    "type": "多选题",
+    "question": "机构的基本要素和主要要素分别是（ ）。",
+    "options": [
+      "机器",
+      "运动副",
+      "构件",
+      "自由度"
+    ],
+    "answer": "BC",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 89,
+    "chapter": "平面连杆机构",
+    "type": "多选题",
+    "question": "运动机构简图中包括（ ）。",
+    "options": [
+      "运动副类型",
+      "构件尺寸参数",
+      "构件间的连接关系",
+      "构件数目和原动件数目"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 90,
+    "chapter": "平面连杆机构",
+    "type": "多选题",
+    "question": "属于运动副元素的是（ ）。",
+    "options": [
+      "面",
+      "线",
+      "点",
+      "体"
+    ],
+    "answer": "ABC",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 91,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "在实际生产中，机构的\"死点\"位置对工作都是不利的，处处都要考虑克服。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 92,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "所有的运动链都可以称为机构。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 93,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "摆动导杆机构以导杆为原动件，机构不存在死点位置。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 94,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "曲柄摇杆机构，当摇杆为主动件时，机构会出现死点位置。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 95,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "面接触的运动副称为低副。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 96,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "构件是机器的运动单元体；零件是机器的制造单元体。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 97,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "汽车的发动机是驱动整个汽车完成预定功能的动力源。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 98,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "在双曲柄机构中，最短杆一定是机架。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 99,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "两个以上的构件以运动副连接而构成的系统称为运动链。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 100,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "所有构件一定都是由两个以上零件组成的。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 101,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "凡两构件直接接触，而又相互联接的都叫运动副。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 102,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "把对构件运动的限制称为约束。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 103,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "运动副是使两构件直接接触，同时又具有相对运动的一种联接。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 104,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "火车车轮在铁轨上的滚动，属于高副。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 105,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "铰链四杆机构中有2个曲柄的就是双曲柄机构。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 106,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "平面机构中高副对每个构件引入两个约束，而低副对每个构件引入一个约束。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 107,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "由于两构件间的联接形式不同，运动副分为低副和高副。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 108,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "在有曲柄的平面连杆机构中，曲柄的极位夹角θ，可以等于0°，也可以大于0°。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 109,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "点或线接触的运动副称为低副。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 110,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "不满足曲柄存在条件就不再是铰链四杆机构了。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 111,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "运动机构简图中的符号和线条是有规定的。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 112,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "内燃机中的曲柄滑块机构工作时以滑块作为主动件。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 113,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "当机构的极位夹角θ=0°时，机构无急回特性。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 114,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "四杆机构的压力角越大，则机构的运动性能越好。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 115,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "机构中的机架常用长斜线表示。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 116,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "曲柄滑块机构的上、下止点位置是两个死点位置。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 117,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "死点有害应处处避免。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 118,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "组成移动副的两构件之间的接触形式，只有平面接触。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 119,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "转动导杆机构以曲柄为原动件，机构存在极限位置。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 120,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "曲柄摇杆机构的死点位置与极限位置重合。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 121,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "运动副是连接，连接是运动副。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 122,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "机器是构件之间具有确定的相对运动，并能完成有用的机械功或实现能量转换的构件的组合。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 123,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "全部由移动副组成的平面四杆机构称为铰链四杆机构。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 124,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "运动副是指使构件间接接触并能产生一定相对运动的连接。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 125,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "构件就是零件。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 126,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "运动副中，两构件联接形式有点、线和面三种。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 127,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "抽屉的拉出或推进运动，是移动副在接触处所允许的相对移动。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 128,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "任何构件的组合均可构成机构。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 129,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "铰链四杆机构是成千上万机器的理论模型，也是平面多杆机构的基础。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 130,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "铰链四杆机构具有急回特性的条件是行程速比系数K≤1。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 131,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "房门的开关运动，是移动副在接触处所允许的相对转动。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 132,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "在铰链四杆机构中，若存在曲柄，则曲柄一定为最短杆。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 133,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "死点位置有害，应处处避免。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 134,
+    "chapter": "平面连杆机构",
+    "type": "判断题",
+    "question": "四杆机构的传动角就是连杆与从动件的夹角。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 135,
+    "chapter": "扭转",
+    "type": "单选题",
+    "question": "圆轴扭转时，横截面上同一圆周上各点的切应力（ ）。",
+    "options": [
+      "大小全相同",
+      "与到轴心的距离的平方成正比",
+      "大小不相同",
+      "与到轴心的距离成反比"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 136,
+    "chapter": "扭转",
+    "type": "单选题",
+    "question": "在校核受扭空心圆轴的强度时，发现原设计最大应力超过了许用应力，可以（ ）。",
+    "options": [
+      "减小轴的内孔直径",
+      "增大轴的内孔直径",
+      "增大轴的外径",
+      "减小轴的长度"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 137,
+    "chapter": "扭转",
+    "type": "单选题",
+    "question": "MT为横截面上的扭矩，下列实心与空心圆轴截面上的扭转剪应力分布图是否正确？",
+    "options": [
+      "（b），（d）正确，（a），（c）不正确",
+      "（a），（c）正确，（b），（d）不正确",
+      "（b），（c）正确，（a），（d）不正确",
+      "（a），（d）正确，（b），（c）不正确"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": "![第三题](https://raw.githubusercontent.com/1145225/idn/main/05扭转作业/第三题.png)"
+  },
+  {
+    "id": 138,
+    "chapter": "扭转",
+    "type": "单选题",
+    "question": "利用扭转强度条件解决实际问题时具体步骤是？",
+    "options": [
+      "1→3→2",
+      "1→2→3",
+      "3→2→1",
+      "2→3→1"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 139,
+    "chapter": "扭转",
+    "type": "单选题",
+    "question": "圆轴扭转受到的外力是一对（ ）。",
+    "options": [
+      "力",
+      "力偶"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 140,
+    "chapter": "扭转",
+    "type": "单选题",
+    "question": "圆轴的最大扭转剪应力τmax（ ）。",
+    "options": [
+      "在危险截面的最大直径处",
+      "必发生在扭矩最大截面上",
+      "在圆轴的边沿45°方向",
+      "在圆轴的中心45°方向"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 141,
+    "chapter": "扭转",
+    "type": "单选题",
+    "question": "实心圆轴的直径增大一倍，则最大扭转切应力（ ）。",
+    "options": [
+      "增加为原来的16倍",
+      "下降为原来的1/8",
+      "下降为原来的1/16",
+      "增加为原来的8倍"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 142,
+    "chapter": "扭转",
+    "type": "单选题",
+    "question": "汽车、船舶和飞机中的轴类零件大多采用空心轴形式，是因为？",
+    "options": [
+      "采用空心轴更美观",
+      "空心轴强度高",
+      "采用空心轴容易制造",
+      "采用空心轴可以节约材料"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 143,
+    "chapter": "扭转",
+    "type": "判断题",
+    "question": "圆轴扭转时，横截面上各点只有垂直于半径方向的切应力，并且同一横截面上各点切应力相同。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 144,
+    "chapter": "扭转",
+    "type": "判断题",
+    "question": "实心圆轴的直径增大一倍，则最大扭转切应力下降为原来的1/8。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 145,
+    "chapter": "扭转",
+    "type": "判断题",
+    "question": "圆轴扭转变形时，在横截面上无正应力，只有垂直于半径的切应力。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 146,
+    "chapter": "扭转",
+    "type": "判断题",
+    "question": "根据圆轴扭转时的切应力的分布规律可知，切应力最大处发生在圆心处。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 147,
+    "chapter": "扭转",
+    "type": "多选题",
+    "question": "圆轴的抗扭截面系数越大，以下说法错误的是（ ）、（ ）和（ ）。",
+    "options": [
+      "圆柱的硬度小",
+      "圆柱的韧性大",
+      "圆柱的刚度大",
+      "圆柱的强度大"
+    ],
+    "answer": "ABD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 148,
+    "chapter": "扭转",
+    "type": "多选题",
+    "question": "以下说法不正确的是（ ）、（ ）和（ ）。",
+    "options": [
+      "截面法是分析应力的基本方法",
+      "轴力越大，杆件越容易被拉断，因此轴力的大小可以用来判断杆件的强度",
+      "内力只能是力",
+      "许用应力为允许达到的最大工作应力"
+    ],
+    "answer": "ABC",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 149,
+    "chapter": "扭转",
+    "type": "多选题",
+    "question": "在校核受扭空心圆轴的强度时，发现原设计最大应力超过了许用应力，哪些方法是无效的（ ）、（ ）和（ ）。",
+    "options": [
+      "增大轴的内孔直径",
+      "减小轴的长度",
+      "增大轴的外径",
+      "减小轴的直径"
+    ],
+    "answer": "ABD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 150,
+    "chapter": "拉伸与压缩",
+    "type": "判断题",
+    "question": "如图所示，杆件在截面1-1处所受的内力是5KN。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": "![第一题](https://raw.githubusercontent.com/1145225/idn/main/04拉伸与压缩作业/第一题.png)"
+  },
+  {
+    "id": 151,
+    "chapter": "拉伸与压缩",
+    "type": "判断题",
+    "question": "在外力的作用下，构件的内部将产生相互作用的力。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 152,
+    "chapter": "拉伸与压缩",
+    "type": "判断题",
+    "question": "为了保证构件的安全可靠，需有一定的强度储备，应将材料的极限应力除以小于1的系数作为材料的许用应力。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 153,
+    "chapter": "拉伸与压缩",
+    "type": "判断题",
+    "question": "构件的变形只跟所受的外载荷有关。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 154,
+    "chapter": "拉伸与压缩",
+    "type": "判断题",
+    "question": "绘制轴力图时，方向向右的内力为正，向左的内力为负。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 155,
+    "chapter": "拉伸与压缩",
+    "type": "多选题",
+    "question": "杆件的基本变形形式有（ ）。",
+    "options": [
+      "弯曲变形",
+      "剪切变形",
+      "拉伸变形",
+      "挤压变形"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 156,
+    "chapter": "拉伸与压缩",
+    "type": "多选题",
+    "question": "根据构件轴向拉伸或压缩时的强度条件可以解决（ ）、（ ）和（ ）问题。",
+    "options": [
+      "选取最强材料",
+      "设计截面尺寸",
+      "确定许可载荷",
+      "强度校核"
+    ],
+    "answer": "BCD",
+    "explanation": "",
+    "image": "![第七题强度条件公式](https://raw.githubusercontent.com/1145225/idn/main/04拉伸与压缩作业/第七题强度条件公式.png)"
+  },
+  {
+    "id": 157,
+    "chapter": "拉伸与压缩",
+    "type": "单选题",
+    "question": "长度相同截面面积不同的两杆，一是钢杆，一是铜杆，若受同样大小的拉力作用，则此两杆的内力（ ），应力（ ），许用应力（ ）。",
+    "options": [
+      "相同、相同、不同",
+      "不同、相同、相同",
+      "不同、不同、相同",
+      "相同、不同、不同"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 158,
+    "chapter": "拉伸与压缩",
+    "type": "单选题",
+    "question": "轴力符号的规定为拉伸时为（ ），即力的方向（ ）截面。",
+    "options": [
+      "正，背离",
+      "正，指向",
+      "负，指向",
+      "负，背离"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 159,
+    "chapter": "拉伸与压缩",
+    "type": "单选题",
+    "question": "材料力学的研究对象是（ ）。",
+    "options": [
+      "变形",
+      "质点",
+      "变形体",
+      "刚体"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 160,
+    "chapter": "材料力学基础",
+    "type": "单选题",
+    "question": "已知二轴长度及所受外力矩完全相同，若二轴材料不同、截面尺寸相同，则（ ）。",
+    "options": [
+      "扭矩相同，应力不同，变形不同",
+      "扭矩、应力和变形均相同",
+      "扭矩相同，应力相同，变形不同",
+      "扭矩、应力和变形均不相同"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 161,
+    "chapter": "材料力学基础",
+    "type": "单选题",
+    "question": "汽车、船舶和飞机中的轴类零件大多采用空心轴形式，是因为？",
+    "options": [
+      "采用空心轴容易制造",
+      "采用空心轴可以节约材料",
+      "空心轴强度高",
+      "采用空心轴更美观"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 162,
+    "chapter": "材料力学基础",
+    "type": "单选题",
+    "question": "在校核受扭空心圆轴的强度时，发现原设计最大应力超过了许用应力，可以（ ）。",
+    "options": [
+      "减小轴的长度",
+      "减小轴的内孔直径",
+      "增大轴的外径",
+      "增大轴的内孔直径"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 163,
+    "chapter": "材料力学基础",
+    "type": "单选题",
+    "question": "圆轴扭转时，同一截面上各点的切应力（ ）。",
+    "options": [
+      "大小全相同",
+      "与到轴心的距离成正比",
+      "与到轴心的距离成反比",
+      "与到轴心的距离的平方成正比"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 164,
+    "chapter": "材料力学基础",
+    "type": "单选题",
+    "question": "图示结构，其中AD杆发生的变形为（ ）。",
+    "options": [
+      "弯曲与压缩的组合变形",
+      "弯曲变形",
+      "剪切变形",
+      "压缩变形"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": "![第五题](https://raw.githubusercontent.com/1145225/idn/main/2.材料力学基础作业/第五题.jpg)"
+  },
+  {
+    "id": 165,
+    "chapter": "材料力学基础",
+    "type": "单选题",
+    "question": "图示铆接钢板用两个铆钉连接，钢板所受的力F = 10kN，则每个铆钉横截面上的剪力Q为（ ）。",
+    "options": [
+      "F/4",
+      "F",
+      "2F",
+      "F/2"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": "![第六题](https://raw.githubusercontent.com/1145225/idn/main/2.材料力学基础作业/第六题.png)"
+  },
+  {
+    "id": 166,
+    "chapter": "材料力学基础",
+    "type": "单选题",
+    "question": "对连接件进行强度计算时（ ）。",
+    "options": [
+      "应进行剪切强度计算，同时还要进行挤压强度计算",
+      "应进行剪切强度、挤压强度、抗拉强度计算",
+      "进行剪切强度计算即可",
+      "应进行剪切强度计算，同时还要进行抗拉强度计算"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 167,
+    "chapter": "材料力学基础",
+    "type": "单选题",
+    "question": "空心圆轴外径为D，内径为d，其抗扭截面模量Wn可按下式计算（ ）。",
+    "options": [
+      "![A选项](https://raw.githubusercontent.com/1145225/idn/main/2.材料力学基础作业/第八题A选项.png)",
+      "![B选项](https://raw.githubusercontent.com/1145225/idn/main/2.材料力学基础作业/第八题B选项.png)",
+      "![C选项](https://raw.githubusercontent.com/1145225/idn/main/2.材料力学基础作业/第八题C选项.png)",
+      "![D选项](https://raw.githubusercontent.com/1145225/idn/main/2.材料力学基础作业/第八题D选项.png)"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 168,
+    "chapter": "材料力学基础",
+    "type": "单选题",
+    "question": "MT为横截面上的扭矩，下列实心与空心圆轴截面上的扭转剪应力分布图是否正确？",
+    "options": [
+      "（a），（d）正确，（b），（c）不正确",
+      "（b），（c）正确，（a），（d）不正确",
+      "（b），（d）正确，（a），（c）不正确",
+      "（a），（c）正确，（b），（d）不正确"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": "![第九题示例图](https://raw.githubusercontent.com/1145225/idn/main/2.材料力学基础作业/第九题示例图.png)"
+  },
+  {
+    "id": 169,
+    "chapter": "材料力学基础",
+    "type": "单选题",
+    "question": "已知二轴长度及所受外力矩完全相同，若二轴材料不同、截面尺寸不同，其扭矩图（ ）。",
+    "options": [
+      "材料无关，与截面尺寸相关",
+      "相同",
+      "与材料相关，与截面尺寸无关",
+      "不同"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 170,
+    "chapter": "材料力学基础",
+    "type": "单选题",
+    "question": "为保证构件不被破坏，构件工作时其承受的剪切应力应（ ）材料的许用切应力？",
+    "options": [
+      "大于等于",
+      "小于等于"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 171,
+    "chapter": "材料力学基础",
+    "type": "单选题",
+    "question": "图示连接件，中间连接钢板所受的挤压应力为（ ）。",
+    "options": [
+      "F/2td",
+      "2F/πd²",
+      "F/td",
+      "F/πd²"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": "![第十二题](https://raw.githubusercontent.com/1145225/idn/main/2.材料力学基础作业/第十二题.png)"
+  },
+  {
+    "id": 172,
+    "chapter": "材料力学基础",
+    "type": "单选题",
+    "question": "图示连接件，插销剪切面上的切应力为（ ）。",
+    "options": [
+      "F/πd²",
+      "F/hd",
+      "4F/πd²",
+      "2F/πd²"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": "![第十三题](https://raw.githubusercontent.com/1145225/idn/main/2.材料力学基础作业/第十三题.png)"
+  },
+  {
+    "id": 173,
+    "chapter": "材料力学基础",
+    "type": "单选题",
+    "question": "圆轴扭转受到的外力是一对（ ）。",
+    "options": [
+      "力",
+      "力偶"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 174,
+    "chapter": "材料力学基础",
+    "type": "单选题",
+    "question": "圆轴扭转时，横截面上同一圆周上各点的切应力（ ）。",
+    "options": [
+      "与到轴心的距离的平方成正比",
+      "大小全相同",
+      "大小不相同",
+      "与到轴心的距离成反比"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 175,
+    "chapter": "材料力学基础",
+    "type": "单选题",
+    "question": "已知一构件受到的最大切应力为35MPa，则应选用以下哪个许用切应力的材料合适？",
+    "options": [
+      "30MPa",
+      "40MPa",
+      "34MPa",
+      "20MPa"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 176,
+    "chapter": "材料力学基础",
+    "type": "单选题",
+    "question": "轴力符号的规定为拉伸时为（ ），即力的方向（ ）截面。",
+    "options": [
+      "正，指向",
+      "正，背离",
+      "负，背离",
+      "负，指向"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 177,
+    "chapter": "材料力学基础",
+    "type": "单选题",
+    "question": "实心圆轴的直径增大一倍，则最大扭转切应力（ ）。",
+    "options": [
+      "增加为原来的16倍",
+      "下降为原来的1/16",
+      "下降为原来的1/8",
+      "增加为原来的8倍"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 178,
+    "chapter": "材料力学基础",
+    "type": "单选题",
+    "question": "圆轴的最大扭转剪应力τmax（ ）。",
+    "options": [
+      "在圆轴的边沿45°方向",
+      "在危险截面的最大直径处",
+      "必发生在扭矩最大截面上",
+      "在圆轴的中心45°方向"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 179,
+    "chapter": "材料力学基础",
+    "type": "单选题",
+    "question": "利用扭转强度条件解决实际问题时具体步骤是？",
+    "options": [
+      "2→3→1",
+      "3→2→1",
+      "1→3→2",
+      "1→2→3"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 180,
+    "chapter": "材料力学基础",
+    "type": "单选题",
+    "question": "材料断裂前的最大应力是（ ）。",
+    "options": [
+      "屈服极限",
+      "抗拉强度",
+      "延伸率",
+      "弹性极限"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 181,
+    "chapter": "材料力学基础",
+    "type": "单选题",
+    "question": "材料力学的研究对象是（ ）。",
+    "options": [
+      "变形体",
+      "刚体",
+      "变形",
+      "质点"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 182,
+    "chapter": "材料力学基础",
+    "type": "单选题",
+    "question": "如图所示，在平板和受拉螺栓间垫上垫圈，可以提高（ ）。",
+    "options": [
+      "螺栓的剪切强度",
+      "平板的挤压强度",
+      "螺栓的拉伸强度",
+      "螺栓的挤压强度"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": "![第二十三题](https://raw.githubusercontent.com/1145225/idn/main/2.材料力学基础作业/第二十三题.png)"
+  },
+  {
+    "id": 183,
+    "chapter": "材料力学基础",
+    "type": "单选题",
+    "question": "如图所示木榫接头，挤压面面积Aj为（ ）。",
+    "options": [
+      "Aj = ab",
+      "Aj = bt",
+      "Aj = at",
+      "Aj = bh"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": "![第二十四题](https://raw.githubusercontent.com/1145225/idn/main/2.材料力学基础作业/第二十四题.png)"
+  },
+  {
+    "id": 184,
+    "chapter": "材料力学基础",
+    "type": "多选题",
+    "question": "以下说法不正确的是（ ）、（ ）和（ ）。",
+    "options": [
+      "截面法是分析应力的基本方法",
+      "许用应力为允许达到的最大工作应力",
+      "轴力越大，杆件越容易被拉断，因此轴力的大小可以用来判断杆件的强度",
+      "内力只能是力"
+    ],
+    "answer": "ACD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 185,
+    "chapter": "材料力学基础",
+    "type": "多选题",
+    "question": "圆轴的抗扭截面系数越大，以下说法错误的是（ ）、（ ）和（ ）。",
+    "options": [
+      "圆柱的硬度小",
+      "圆柱的强度大",
+      "圆柱的刚度大",
+      "圆柱的韧性大"
+    ],
+    "answer": "ABD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 186,
+    "chapter": "材料力学基础",
+    "type": "多选题",
+    "question": "杆件的基本变形形式有（ ）。",
+    "options": [
+      "剪切变形",
+      "弯曲变形",
+      "拉伸变形",
+      "挤压变形"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 187,
+    "chapter": "材料力学基础",
+    "type": "多选题",
+    "question": "在校核受扭空心圆轴的强度时，发现原设计最大应力超过了许用应力，哪些方法是无效的（ ）、（ ）和（ ）。",
+    "options": [
+      "减小轴的长度",
+      "减小轴的直径",
+      "增大轴的内孔直径",
+      "增大轴的外径"
+    ],
+    "answer": "ABC",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 188,
+    "chapter": "材料力学基础",
+    "type": "多选题",
+    "question": "根据构件轴向拉伸或压缩时的强度条件可以解决（ ）、（ ）和（ ）问题。",
+    "options": [
+      "确定许可载荷",
+      "选取最强材料",
+      "设计截面尺寸",
+      "强度校核"
+    ],
+    "answer": "ACD",
+    "explanation": "",
+    "image": "![第二十九题强度条件公式](https://raw.githubusercontent.com/1145225/idn/main/2.材料力学基础作业/第二十九题强度条件公式.png)"
+  },
+  {
+    "id": 189,
+    "chapter": "材料力学基础",
+    "type": "判断题",
+    "question": "梁某截面的弯矩，若梁在该截面附近弯成下凹变形，则弯矩为负；弯成上凸变形则弯矩为正。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 190,
+    "chapter": "材料力学基础",
+    "type": "判断题",
+    "question": "剪切变形的受力特点是作用于构件两侧面上外力的合力大小相等，方向相反，且作用线相距很近。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 191,
+    "chapter": "材料力学基础",
+    "type": "判断题",
+    "question": "当梁的材料是钢时，一般选用工字形的截面形状；若是铸铁，一般采用T形的截面形状。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 192,
+    "chapter": "材料力学基础",
+    "type": "判断题",
+    "question": "实心圆轴的直径增大一倍，则最大扭转切应力下降为原来的1/8。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 193,
+    "chapter": "材料力学基础",
+    "type": "判断题",
+    "question": "脆性材料的极限应力是其强度极限，塑性材料其极限应力是其屈服极限。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 194,
+    "chapter": "材料力学基础",
+    "type": "判断题",
+    "question": "圆轴扭转变形时，在横截面上无正应力，只有垂直于半径的切应力。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 195,
+    "chapter": "材料力学基础",
+    "type": "判断题",
+    "question": "梁的中性层上各点应力为零。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 196,
+    "chapter": "材料力学基础",
+    "type": "判断题",
+    "question": "已知二轴长度及所受外力矩完全相同，若二轴材料不同、截面尺寸不同，其扭矩图相同。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 197,
+    "chapter": "材料力学基础",
+    "type": "判断题",
+    "question": "绘制轴力图时，方向向右的内力为正，向左的内力为负。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 198,
+    "chapter": "材料力学基础",
+    "type": "判断题",
+    "question": "根据圆轴扭转时的切应力的分布规律可知，切应力最大处发生在圆心处。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 199,
+    "chapter": "材料力学基础",
+    "type": "判断题",
+    "question": "为了保证构件的安全可靠，需有一定的强度储备，应将材料的极限应力除以小于1的系数作为材料的许用应力。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 200,
+    "chapter": "材料力学基础",
+    "type": "判断题",
+    "question": "在外力的作用下，构件的内部将产生相互作用的力。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 201,
+    "chapter": "材料力学基础",
+    "type": "判断题",
+    "question": "如图所示，杆件在截面1-1处所受的内力是5KN。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": "![第四十二题](https://raw.githubusercontent.com/1145225/idn/main/2.材料力学基础作业/第四十二题.png)"
+  },
+  {
+    "id": 202,
+    "chapter": "材料力学基础",
+    "type": "判断题",
+    "question": "强度计算中内力就是构件内部相互作用力。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 203,
+    "chapter": "材料力学基础",
+    "type": "判断题",
+    "question": "同一种材料的横向线应变与纵向线应变成正比关系。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 204,
+    "chapter": "材料力学基础",
+    "type": "判断题",
+    "question": "以截面的左侧的外力计算梁的剪力时，向上的外力取正号；向下的外力取负号。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 205,
+    "chapter": "材料力学基础",
+    "type": "判断题",
+    "question": "当接触面为近似半圆柱侧面时，一般取通过圆柱直径的平面面积（即圆柱的正投影面面积）作为挤压面的计算面积。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 206,
+    "chapter": "材料力学基础",
+    "type": "判断题",
+    "question": "圆轴扭转时，横截面上各点只有垂直于半径方向的切应力，并且同一横截面上各点切应力相同。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 207,
+    "chapter": "液压传动",
+    "type": "单选题",
+    "question": "液压传动装置由（ ）、（ ）、（ ）和（ ）四部分组成。",
+    "options": [
+      "动力装置、执行装置、控制调节装置、辅助装置",
+      "动力装置、执行装置、储存装置、辅助装置",
+      "能量装置、运动装置、执行装置、辅助装置",
+      "能量装置、运动装置、控制调节装置、辅助装置"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 208,
+    "chapter": "液压传动",
+    "type": "单选题",
+    "question": "（ ）是储存和释放液体压力能的装置。",
+    "options": [
+      "液压泵",
+      "过滤器",
+      "冷却器",
+      "蓄能器"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 209,
+    "chapter": "液压传动",
+    "type": "单选题",
+    "question": "外啮合齿轮泵的特点有（ ）。",
+    "options": [
+      "结构紧凑，流量调节方便",
+      "价格低廉，工作可靠，自吸性能好",
+      "对油液污染不敏感，泄漏小，主要用于高压系统",
+      "噪声小，输油量均匀"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 210,
+    "chapter": "液压传动",
+    "type": "单选题",
+    "question": "液压传动装置中（ ）和（ ）为能量转换装置。",
+    "options": [
+      "运动装置、执行装置",
+      "动力装置、辅助装置",
+      "运动装置、辅助装置",
+      "动力装置、执行装置"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 211,
+    "chapter": "液压传动",
+    "type": "单选题",
+    "question": "溢流阀的作用主要有两个方面：一是起溢流（ ）作用，二是起限压保护作用。",
+    "options": [
+      "稳压",
+      "减压",
+      "换向",
+      "反向"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 212,
+    "chapter": "液压传动",
+    "type": "单选题",
+    "question": "顺序阀属于（ ）控制阀。",
+    "options": [
+      "运动",
+      "流量",
+      "方向",
+      "压力"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 213,
+    "chapter": "液压传动",
+    "type": "单选题",
+    "question": "液压阀按照功能分为（ ）、（ ）和（ ）三类。",
+    "options": [
+      "方向控制阀、运动控制阀、功能控制阀",
+      "运动控制阀、压力控制阀、流量控制阀",
+      "方向控制阀、压力控制阀、流量控制阀",
+      "压力控制阀、流量控制阀、功能控制阀"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 214,
+    "chapter": "液压传动",
+    "type": "单选题",
+    "question": "液压传动中，常用的工作介质是（ ），系统用它来传递（ ）。",
+    "options": [
+      "活塞、压力",
+      "液压油、运动",
+      "液压油、压力",
+      "活塞、运动"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 215,
+    "chapter": "液压传动",
+    "type": "单选题",
+    "question": "方向阀按其功能分为（ ）和（ ）。",
+    "options": [
+      "换向阀、顺序阀",
+      "单向阀、换向阀",
+      "单向阀、双向阀",
+      "顺序阀、单向阀"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 216,
+    "chapter": "液压传动",
+    "type": "判断题",
+    "question": "单向阀的作用是控制油液的流动方向，接通或关闭油路。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 217,
+    "chapter": "液压传动",
+    "type": "判断题",
+    "question": "外啮合齿轮泵中，轮齿不断进入啮合的一侧的油腔是吸油腔。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "轮齿不断进入啮合的一侧是压油腔（而不是吸油腔）；轮齿不断脱开啮合的一侧才是吸油腔。",
+    "image": ""
+  },
+  {
+    "id": 218,
+    "chapter": "滑动轴承",
+    "type": "单选题",
+    "question": "与滚动轴承相比较，下述各点中，（ ）不能作为滑动轴承的优点。（滚动轴承精度更高）",
+    "options": [
+      "间隙小，旋转精度高",
+      "可用于高速情况下",
+      "运转平稳，噪声低",
+      "径向尺寸小"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 219,
+    "chapter": "滑动轴承",
+    "type": "单选题",
+    "question": "在（ ）情况下，滑动轴承润滑油的粘度不应选得较高。",
+    "options": [
+      "承受变载荷或振动冲击载荷",
+      "重载",
+      "高速",
+      "工作温度高"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 220,
+    "chapter": "滑动轴承",
+    "type": "单选题",
+    "question": "整体式滑动轴承（ ）",
+    "options": [
+      "结构简单",
+      "适用于重载高速的场合",
+      "磨损后可调整间隙",
+      "以上选项都不对"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 221,
+    "chapter": "滑动轴承",
+    "type": "单选题",
+    "question": "径向滑动轴承中，（ ）拆装方便、应用广泛。",
+    "options": [
+      "剖分式滑动轴承",
+      "以上选项都不对",
+      "调心式滑动轴承",
+      "整体式滑动轴承"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 222,
+    "chapter": "滑动轴承",
+    "type": "单选题",
+    "question": "下列各种机械设备中，（ ）只宜采用滑动轴承。",
+    "options": [
+      "铁道机车车辆轴",
+      "电动机转子",
+      "中、小型减速器齿轮轴",
+      "大型水轮机主轴"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 223,
+    "chapter": "滑动轴承",
+    "type": "单选题",
+    "question": "在径向滑动轴承中，采用可倾瓦的目的在于（ ）。",
+    "options": [
+      "便于装配",
+      "增加润滑油流量，降低温升",
+      "使轴承具有自动调位能力",
+      "提高轴承的稳定性"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 224,
+    "chapter": "滑动轴承",
+    "type": "单选题",
+    "question": "在滑动轴承材料中，（ ）通常只用作双金属轴瓦的表层材料。",
+    "options": [
+      "铸造黄铜",
+      "铸铁",
+      "铸造锡磷青铜",
+      "巴氏合金"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 225,
+    "chapter": "滑动轴承",
+    "type": "单选题",
+    "question": "温度升高时，润滑油的粘度（ ）。",
+    "options": [
+      "随之升高",
+      "保持不变",
+      "随之降低",
+      "可能升高也可能降低"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 226,
+    "chapter": "滑动轴承",
+    "type": "填空题",
+    "question": "滑动轴承按受载荷方向的不同，可分为（ ）轴承和（ ）轴承。",
+    "options": [],
+    "answer": "径向；止推",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 227,
+    "chapter": "滑动轴承",
+    "type": "填空题",
+    "question": "两摩擦表面间的典型摩擦状态有三种（ ）。",
+    "options": [],
+    "answer": "干摩擦、边界摩擦、液体摩擦",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 228,
+    "chapter": "滑动轴承",
+    "type": "填空题",
+    "question": "根据滑动表面间润滑状态不同，可分为（ ）润滑轴承和（ ）润滑轴承。",
+    "options": [],
+    "answer": "液体；不完全液体",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 229,
+    "chapter": "滑动轴承",
+    "type": "判断题",
+    "question": "滑动轴承轴瓦上的油沟应开在承载区。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 230,
+    "chapter": "滑动轴承",
+    "type": "判断题",
+    "question": "轴瓦上的油沟不能开通，是为了避免润滑油从轴瓦端部大量流失。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 231,
+    "chapter": "滚动轴承",
+    "type": "单选题",
+    "question": "当径向载荷比轴向载荷大得多，转速较高时常采用（ ）。",
+    "options": [
+      "推力轴承",
+      "深沟球轴承",
+      "线接触滚子轴承",
+      "调心轴承"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 232,
+    "chapter": "滚动轴承",
+    "type": "单选题",
+    "question": "滚动轴承6410类型是（ ）。",
+    "options": [
+      "推力球轴承",
+      "角接触球轴承",
+      "深沟球轴承",
+      "滚针轴承"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 233,
+    "chapter": "滚动轴承",
+    "type": "单选题",
+    "question": "推力轴承的接触角为（ ）°。",
+    "options": [
+      "45~90",
+      "0~45",
+      "0",
+      "90"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 234,
+    "chapter": "滚动轴承",
+    "type": "单选题",
+    "question": "同一根轴的两端支承，虽然承受负载不等，但常采用一对相同型号的滚动轴承，这是因为除（ ）以外的下述其余三点理由。",
+    "options": [
+      "安装轴承的两轴颈直径相同，加工方便",
+      "采购同型号的一对轴承比较方便",
+      "一次镗孔能保证两轴承孔中心线的同轴度，有利于轴承正常工作",
+      "安装轴承的两轴承孔直径相同，加工方便"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 235,
+    "chapter": "滚动轴承",
+    "type": "单选题",
+    "question": "滚动轴承的代号由基本代号及后置代号组成，其中基本代号表示（ ）。",
+    "options": [
+      "轴承的类型、结构和尺寸",
+      "轴承游隙和配置",
+      "轴承组件",
+      "轴承内部结构的变化和轴承公差等级"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 236,
+    "chapter": "滚动轴承",
+    "type": "单选题",
+    "question": "滚动轴承内圈与轴颈的配合以及外圈与座孔的配合（ ）。",
+    "options": [
+      "前者采用基轴制，后者采用基孔制",
+      "前者采用基孔制，后者采用基轴制",
+      "全部采用基孔制",
+      "全部采用基轴制"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 237,
+    "chapter": "滚动轴承",
+    "type": "单选题",
+    "question": "下列只能承受径向载荷的是（ ）。",
+    "options": [
+      "51208",
+      "N208",
+      "6208",
+      "30208"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 238,
+    "chapter": "滚动轴承",
+    "type": "单选题",
+    "question": "按滚动轴承滚动体形状分类滚动轴承可分为（ ）。",
+    "options": [
+      "圆锥滚子轴承和圆柱滚子轴承",
+      "向心轴承和推力轴承",
+      "刚性轴承和调心轴承",
+      "球轴承和滚子轴承"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 239,
+    "chapter": "滚动轴承",
+    "type": "单选题",
+    "question": "滚动轴承中必不可少的是（ ）。",
+    "options": [
+      "滚动体",
+      "保持架",
+      "内圈",
+      "外圈"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 240,
+    "chapter": "滚动轴承",
+    "type": "单选题",
+    "question": "滚动轴承的类型代号采用（ ）。",
+    "options": [
+      "大写字母",
+      "小写字母",
+      "数字",
+      "数字或大写字母"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 241,
+    "chapter": "滚动轴承",
+    "type": "单选题",
+    "question": "当轴的转速较高，且只能承受较大的径向载荷时，宜选用（ ）。",
+    "options": [
+      "圆柱滚子轴承",
+      "圆锥滚子轴承",
+      "推力球轴承",
+      "深沟球轴承"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 242,
+    "chapter": "滚动轴承",
+    "type": "单选题",
+    "question": "代号为30108、30208、30308的滚动轴承的（ ）不相同。",
+    "options": [
+      "内径",
+      "精度",
+      "类型",
+      "外径"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 243,
+    "chapter": "滚动轴承",
+    "type": "单选题",
+    "question": "滚动轴承的基本代号中用自右向左第3位数字表示（ ）。",
+    "options": [
+      "类型代号",
+      "宽（高）系列",
+      "内径代号",
+      "直径系列代号"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 244,
+    "chapter": "滚动轴承",
+    "type": "单选题",
+    "question": "接触角是指（ ）。",
+    "options": [
+      "滚动体与内圈接触处的法线与垂直于轴承轴心线的径向平面之间的夹角",
+      "滚动体与外圈接触处的法线与垂直于轴承轴心线的径向平面之间的夹角",
+      "滚动体与内圈接触处的切线与垂直于轴承轴心线的径向平面之间的夹角",
+      "滚动体与外圈接触处的切线与垂直于轴承轴心线的径向平面之间的夹角"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 245,
+    "chapter": "滚动轴承",
+    "type": "多选题",
+    "question": "内外圈可分离的轴承有（ ）。",
+    "options": [
+      "圆锥滚子轴承",
+      "调心球轴承",
+      "圆柱滚子轴承",
+      "推力轴承"
+    ],
+    "answer": "ACD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 246,
+    "chapter": "滚动轴承",
+    "type": "多选题",
+    "question": "滚动轴承具有（ ）优点。",
+    "options": [
+      "摩擦阻力小",
+      "效率高",
+      "起动灵活",
+      "润滑方便"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 247,
+    "chapter": "滚动轴承",
+    "type": "多选题",
+    "question": "属于滚动轴承基本组成的有（ ）。",
+    "options": [
+      "内圈",
+      "外圈",
+      "保持架",
+      "滚动体"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 248,
+    "chapter": "滚动轴承",
+    "type": "多选题",
+    "question": "滚动轴承基本代号由（ ）组成。",
+    "options": [
+      "类型代号",
+      "内径代号",
+      "公差代号",
+      "尺寸代号"
+    ],
+    "answer": "ABD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 249,
+    "chapter": "滚动轴承",
+    "type": "多选题",
+    "question": "滚动轴承代号由（ ）组成。",
+    "options": [
+      "备注代号",
+      "后置代号",
+      "前置代号",
+      "基本代号"
+    ],
+    "answer": "BCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 250,
+    "chapter": "滚动轴承",
+    "type": "填空题",
+    "question": "滚动轴承部件支承轴时，若采用双支点单向固定式，其适用条件应是工作时温升（ ）或轴的跨距（ ）的场合。",
+    "options": [],
+    "answer": "较小；较小",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 251,
+    "chapter": "滚动轴承",
+    "type": "判断题",
+    "question": "具有调心功能的滚动轴承，是因内滚道表面是以轴承中心为中心的球面。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 252,
+    "chapter": "滚动轴承",
+    "type": "判断题",
+    "question": "向心滚动轴承只能承受径向载荷。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 253,
+    "chapter": "滚动轴承",
+    "type": "判断题",
+    "question": "滚动体随内圈一道旋转。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 254,
+    "chapter": "滚动轴承",
+    "type": "判断题",
+    "question": "滚动轴承的公称接触角越大，轴承承受径向载荷的能力就越大。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 255,
+    "chapter": "滚动轴承",
+    "type": "判断题",
+    "question": "推力圆柱滚子轴承能够承受双向轴向载荷。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 256,
+    "chapter": "滚动轴承",
+    "type": "判断题",
+    "question": "滚动轴承较适合于载荷较大或有冲击力的场合。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 257,
+    "chapter": "滚动轴承",
+    "type": "判断题",
+    "question": "滚动轴承属于高副接触，承受冲击载荷能力强。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 258,
+    "chapter": "滚动轴承",
+    "type": "判断题",
+    "question": "轴承的作用是支撑轴和轴上的零件实现转动。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 259,
+    "chapter": "滚动轴承",
+    "type": "判断题",
+    "question": "轴承的作用就是支撑轴和轴上的零件实现转动。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 260,
+    "chapter": "滚动轴承",
+    "type": "判断题",
+    "question": "圆锥滚子轴承内外圈可分离，且必须成对使用。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 261,
+    "chapter": "滚动轴承",
+    "type": "判断题",
+    "question": "推力滚动轴承能够同时承受径向和轴向力。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 262,
+    "chapter": "滚动轴承",
+    "type": "判断题",
+    "question": "代号为6107、6207、6307的滚动轴承的内径都是相同的。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 263,
+    "chapter": "滚动轴承",
+    "type": "判断题",
+    "question": "角接触球轴承因产生内部轴向分力，一般成对使用。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 264,
+    "chapter": "滚动轴承",
+    "type": "判断题",
+    "question": "滚动轴承中的转轴与轴座之间为滑动摩擦。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 265,
+    "chapter": "离合器与制动器",
+    "type": "单选题",
+    "question": "下列哪个不是鼓式制动器的优点",
+    "options": [
+      "结构简单",
+      "散热良好",
+      "制造成本较低",
+      "刹车力强"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 266,
+    "chapter": "离合器与制动器",
+    "type": "单选题",
+    "question": "盘式制动器的优点有：",
+    "options": [
+      "散热差",
+      "散热好",
+      "制动力不平均",
+      "排水性差"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 267,
+    "chapter": "离合器与制动器",
+    "type": "单选题",
+    "question": "前盘后鼓就是前轮（ ），后轮（ ）",
+    "options": [
+      "鼓式制动，盘式制动",
+      "鼓式制动，鼓式制动",
+      "盘式制动，鼓式制动",
+      "盘式制动，盘式制动"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 268,
+    "chapter": "离合器与制动器",
+    "type": "单选题",
+    "question": "以下哪个不是离合器工作中的过程？",
+    "options": [
+      "相对摩擦",
+      "相互排斥",
+      "分离",
+      "接合"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 269,
+    "chapter": "离合器与制动器",
+    "type": "单选题",
+    "question": "目前汽车上广泛采用的是（  ）离合器。",
+    "options": [
+      "膜片弹簧",
+      "螺旋弹簧",
+      "齿轮式",
+      "牙嵌式"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 270,
+    "chapter": "离合器与制动器",
+    "type": "单选题",
+    "question": "联轴器和离合器的主要作用是(    ) 。",
+    "options": [
+      "防止机器发生过载",
+      "缓冲、减振",
+      "补偿两轴的相对位移",
+      "传递运动和转矩"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 271,
+    "chapter": "离合器与制动器",
+    "type": "多选题",
+    "question": "浮钳盘式制动器一般由那部分（    ）组成。",
+    "options": [
+      "制动钳",
+      "活塞",
+      "制动盘",
+      "制动块"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 272,
+    "chapter": "离合器与制动器",
+    "type": "多选题",
+    "question": "汽车离合器按照其操纵方法有（ ）。",
+    "options": [
+      "机械的",
+      "电磁的",
+      "液力",
+      "气动的"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 273,
+    "chapter": "离合器与制动器",
+    "type": "多选题",
+    "question": "离合器主要由（  ）组成。",
+    "options": [
+      "主动部分",
+      "分离机构",
+      "从动部分",
+      "操纵机构",
+      "压紧机构"
+    ],
+    "answer": "ABCDE",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 274,
+    "chapter": "离合器与制动器",
+    "type": "多选题",
+    "question": "手动挡汽车制动器的作用是（   ）",
+    "options": [
+      "使下坡行驶的汽车的速度保持稳定",
+      "使已停驶的汽车可靠地驻留原地不动",
+      "使行驶中的汽车减速直至停车",
+      "断开发动机和驱动系统的联接"
+    ],
+    "answer": "ABC",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 275,
+    "chapter": "离合器与制动器",
+    "type": "多选题",
+    "question": "汽车离合器有（  ）几种。",
+    "options": [
+      "摩擦式离合器",
+      "液力变矩器",
+      "干式",
+      "电磁离合器"
+    ],
+    "answer": "ABD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 276,
+    "chapter": "离合器与制动器",
+    "type": "多选题",
+    "question": "离合器的主要功能有（  ）。",
+    "options": [
+      "可靠驻车",
+      "过载保护",
+      "平顺换挡",
+      "平稳起步"
+    ],
+    "answer": "BCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 277,
+    "chapter": "离合器与制动器",
+    "type": "多选题",
+    "question": "摩擦式离合器按其从动盘的数目，分（   ）等几种。",
+    "options": [
+      "双盘式",
+      "组合式",
+      "多盘式",
+      "单盘式"
+    ],
+    "answer": "ACD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 278,
+    "chapter": "离合器与制动器",
+    "type": "多选题",
+    "question": "摩擦离合器与牙嵌离合器相比，摩擦离合器优点有（  ）。",
+    "options": [
+      "结合分离过程平稳",
+      "摩擦产生热引起摩擦系数增大",
+      "主从轴必须在速度相同下结合",
+      "过载时能打滑保护"
+    ],
+    "answer": "AD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 279,
+    "chapter": "离合器与制动器",
+    "type": "多选题",
+    "question": "定钳盘式制动器一般由那部分（    ）组成。",
+    "options": [
+      "导向销",
+      "制动钳体",
+      "磨擦片",
+      "制动盘"
+    ],
+    "answer": "BCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 280,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "离合器用于机器运转过程中传递动力和运动时，在主、从动轴之间具有分离与接合功能的装置。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 281,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "盘式制动器的工作面一般为圆柱面。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 282,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "单盘离合器传递的转矩通常很大。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 283,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "轮式工程机械式制动器制动时，制动蹄张开压紧制动毂。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 284,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "离合器踏板自由程过大，会造成离合器打滑。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 285,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "离合器工作中只有分离和接合两个过程。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 286,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "三角形牙的牙嵌离合器应用最广。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 287,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "离合器能根据工作需要，随时结合或分离两轴间的动力传递。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 288,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "离合器需要有操纵机构来控制是处于结合状态还是分离状态。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 289,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "离合器处于分离状态时，能在主从动轴间传递动力。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 290,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "换挡时，要先踩下离合器踏板，是为了传递与变速器的动力传递。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 291,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "带式制动器通过制动带将制动轮抱紧实现制动。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 292,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "湿式摩擦式离合器一般为多盘式的，浸在油中以便于散热。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 293,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "汽车平稳起步不是靠离合器逐渐接合过程中滑磨程度的变化来实现的。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 294,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "摩擦离合器间摩擦力的产生是因为接触面间有压力和相对运动形成的。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 295,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "牙嵌离合器是靠端面上的牙相互嵌入的摩擦力，实现动力传递。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 296,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "一般轿车采用前鼓后盘式制动方式。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 297,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "多片摩擦离合器采用增加结合面对数的方法来增大传递动力。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 298,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "制动器是靠摩擦力来是实现对旋转件的停止。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 299,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "摩擦离合器利用主从动半离合器接触表面的摩擦力来传递动力，摩擦力的产生不需要表面间有压力。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 300,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "制动器的作用是使机器在需要停机的位置停止运转。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 301,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "目前在汽车上广泛采用的是用弹簧压紧的摩擦离合器。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 302,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "鼓式制动器的工作面一般为端面。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 303,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "膜片弹簧离合器相对其它离合器没有太多的优点。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 304,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "拆装离合器时，可以先不拆卸变速器。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 305,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "盘式制动器由制动钳压紧制动盘而制动。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 306,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "牙嵌离合器由两个端面带牙的半离合器组成。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 307,
+    "chapter": "离合器与制动器",
+    "type": "判断题",
+    "question": "一般来讲，鼓式制动器制动效果好于盘式。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 308,
+    "chapter": "联轴器",
+    "type": "单选题",
+    "question": "( )具有良好的补偿性，允许有综合位移",
+    "options": [
+      "齿轮联轴器",
+      "滑块联轴器",
+      "膜片联轴器",
+      "套筒联轴器"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 309,
+    "chapter": "联轴器",
+    "type": "单选题",
+    "question": "( )允许两轴间有较大的角位移，且传递转矩较大。",
+    "options": [
+      "万向联轴器",
+      "膜片联轴器",
+      "套筒联轴器",
+      "凸缘联轴器"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 310,
+    "chapter": "联轴器",
+    "type": "单选题",
+    "question": "齿式联轴器有（ ）齿轮啮合形成。",
+    "options": [
+      "4",
+      "1",
+      "3",
+      "2"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 311,
+    "chapter": "联轴器",
+    "type": "单选题",
+    "question": "对中方式I型的凸缘式联轴器工作时，采用（ ）力传递转矩。",
+    "options": [
+      "弯曲",
+      "剪切",
+      "扭曲",
+      "摩擦"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 312,
+    "chapter": "联轴器",
+    "type": "单选题",
+    "question": "( )一般适用于低速，轴的刚度较大、无剧烈冲击的场合。",
+    "options": [
+      "齿形联轴器",
+      "万向联轴器",
+      "滑块联轴器",
+      "凸缘联轴器"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 313,
+    "chapter": "联轴器",
+    "type": "单选题",
+    "question": "( )广泛用于金属切削机床、汽车、摩托车和各种起重机的传动装置中。",
+    "options": [
+      "嵌式离合器",
+      "滑块联轴器",
+      "越式离合器",
+      "形离合器"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 314,
+    "chapter": "联轴器",
+    "type": "单选题",
+    "question": "结构最简单的联轴器是（ ）。",
+    "options": [
+      "套筒",
+      "万向节",
+      "凸缘",
+      "十字滑动"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 315,
+    "chapter": "联轴器",
+    "type": "单选题",
+    "question": "应用最广泛的联轴器是（ ）。",
+    "options": [
+      "凸缘式",
+      "十字滑块",
+      "齿轮式",
+      "套筒式"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 316,
+    "chapter": "联轴器",
+    "type": "单选题",
+    "question": "( )应用于载荷平衡、启动频繁、转速高、传递中、小转矩的场合。",
+    "options": [
+      "弹性套柱销联轴器",
+      "齿轮联轴器",
+      "十字联轴器",
+      "滑块联轴器"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 317,
+    "chapter": "联轴器",
+    "type": "单选题",
+    "question": "( )适用于两轴的对中性好、冲击较小及不经常拆卸的场合。",
+    "options": [
+      "齿形联轴器",
+      "万向联轴器",
+      "滑块联轴器",
+      "凸缘联轴器"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 318,
+    "chapter": "联轴器",
+    "type": "判断题",
+    "question": "联轴器是用来连接两根轴传递拉力。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 319,
+    "chapter": "联轴器",
+    "type": "判断题",
+    "question": "联轴器在工作时不能分离，而离合器在工作时可分离。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 320,
+    "chapter": "联轴器",
+    "type": "判断题",
+    "question": "联轴器都具有安全保护作用。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 321,
+    "chapter": "联轴器",
+    "type": "判断题",
+    "question": "万向联轴器主要用于相交轴的传动。为了消除不利于传动的附加动载荷，一般将万向联轴器成对使用。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 322,
+    "chapter": "联轴器",
+    "type": "判断题",
+    "question": "十字滑块联轴器中的滑块嵌入在槽中，可在其中滑动。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 323,
+    "chapter": "联轴器",
+    "type": "判断题",
+    "question": "对中方式II型凸缘联轴器靠铰制孔螺栓对中。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 324,
+    "chapter": "联轴器",
+    "type": "判断题",
+    "question": "挠性联轴器可补偿被连接两轴的位移和偏斜。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 325,
+    "chapter": "联轴器",
+    "type": "判断题",
+    "question": "刚性联轴器可补偿两轴的偏移。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 326,
+    "chapter": "联轴器",
+    "type": "判断题",
+    "question": "套筒式和凸缘式联轴器中，轴和它们的连接均可采用键连接。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 327,
+    "chapter": "联轴器",
+    "type": "填空题",
+    "question": "( )是一类容许两轴间具有较大角位移的联轴器。",
+    "options": [],
+    "answer": "万向联轴器",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 328,
+    "chapter": "联轴器",
+    "type": "填空题",
+    "question": "联轴器具有( )、( )及( )等功能。",
+    "options": [],
+    "answer": "补偿两轴相对位移；缓冲；安全防护",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 329,
+    "chapter": "联轴器",
+    "type": "填空题",
+    "question": "无论哪种形式的联轴节，装配的主要技术要求是应保证( )，否则被连接的两轴在传动时将产生( )和增加机械的振动。",
+    "options": [],
+    "answer": "两轴的同轴度；附加阻力",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 330,
+    "chapter": "联轴器",
+    "type": "填空题",
+    "question": "当受载较大，两轴较难对中时，应选用( )联接；当原动机的转速高且发出动力的较不稳定时，其输出轴与传动轴之间应选用( )来联接。",
+    "options": [],
+    "answer": "可移式刚性联轴器；弹性联轴器",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 331,
+    "chapter": "联轴器",
+    "type": "填空题",
+    "question": "挠性联轴器又可分为( )挠性联轴器和( )挠性联轴器。",
+    "options": [],
+    "answer": "有弹性元件；无弹性元件",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 332,
+    "chapter": "联轴器",
+    "type": "填空题",
+    "question": "常用联轴器可分为( )和( )两大类。",
+    "options": [],
+    "answer": "刚性联轴器；挠性联轴器",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 333,
+    "chapter": "联轴器",
+    "type": "填空题",
+    "question": "万向联轴器一般轴间角最大可达( )。而且在运转过程中可以随时改变两轴的轴间角。",
+    "options": [],
+    "answer": "35~45°",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 334,
+    "chapter": "联轴器",
+    "type": "填空题",
+    "question": "凸缘联轴器是利用( )相互配合对中来连接两轴的联轴器。",
+    "options": [],
+    "answer": "凹凸榫",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 335,
+    "chapter": "联轴器",
+    "type": "多选题",
+    "question": "属于无弹性组件挠性联轴器的有（ ）。",
+    "options": [
+      "浮动盘",
+      "十字滑块",
+      "万向节",
+      "齿轮式"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 336,
+    "chapter": "联轴器",
+    "type": "多选题",
+    "question": "联轴器连接的两轴偏移形式有（ ）位移。",
+    "options": [
+      "角度",
+      "综合",
+      "轴向",
+      "径向"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 337,
+    "chapter": "联轴器",
+    "type": "多选题",
+    "question": "属于刚性联轴器的有（ ）。",
+    "options": [
+      "套筒式",
+      "万向节",
+      "凸缘式",
+      "十字滑动"
+    ],
+    "answer": "AC",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 338,
+    "chapter": "蜗杆蜗轮",
+    "type": "多选题",
+    "question": "蜗杆蜗轮正确啮合条件是（ ）。",
+    "options": [
+      "蜗杆螺旋线升角等于蜗轮螺旋角",
+      "蜗杆头数等于蜗轮齿数",
+      "蜗杆轴面模数等于蜗轮端面模数",
+      "蜗杆轴向压力角等于蜗轮端面压力角"
+    ],
+    "answer": "ACD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 339,
+    "chapter": "蜗杆蜗轮",
+    "type": "单选题",
+    "question": "蜗杆传动中（ ）是主动件。",
+    "options": [
+      "看情况",
+      "都行",
+      "蜗杆",
+      "蜗轮"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 340,
+    "chapter": "蜗杆蜗轮",
+    "type": "单选题",
+    "question": "具有自锁作用的传动是：（ ）。",
+    "options": [
+      "皮带传动",
+      "链传动",
+      "齿轮传动",
+      "蜗杆传动"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 341,
+    "chapter": "蜗杆蜗轮",
+    "type": "单选题",
+    "question": "起重机的重物可停悬在任意高度，是利用了蜗杆传动的（ ）性。",
+    "options": [
+      "互锁",
+      "倒锁",
+      "杆锁",
+      "自锁"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 342,
+    "chapter": "蜗杆蜗轮",
+    "type": "单选题",
+    "question": "蜗杆传动参数是以（ ）为基准的。",
+    "options": [
+      "法向平面",
+      "蜗轮端面",
+      "蜗杆端面",
+      "中间平面"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 343,
+    "chapter": "蜗杆蜗轮",
+    "type": "单选题",
+    "question": "蜗杆传动传动比的正确计算公式为（ ）。",
+    "options": [
+      "i₁₂ = d₂/d₁",
+      "i₁₂ = d₁/d₂",
+      "i₁₂ = z₂/z₁"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 344,
+    "chapter": "蜗杆蜗轮",
+    "type": "单选题",
+    "question": "两轴在空间交错90°的传动，如已知传递载荷及传动比都较大，则宜选用（ ）。",
+    "options": [
+      "斜齿圆锥齿轮传动",
+      "螺旋齿轮传动",
+      "蜗轮蜗杆传动"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 345,
+    "chapter": "蜗杆蜗轮",
+    "type": "单选题",
+    "question": "与齿轮传动相比，（ ）不能作为蜗杆传动的优点。",
+    "options": [
+      "可产生自锁",
+      "传动比大",
+      "传动效率高",
+      "传动平稳、噪音低"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 346,
+    "chapter": "蜗杆蜗轮",
+    "type": "判断题",
+    "question": "蜗杆传动用于相交轴传动；圆锥齿轮传动用于交错轴的传动。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 347,
+    "chapter": "蜗杆蜗轮",
+    "type": "判断题",
+    "question": "为了蜗轮蜗杆啮合时有良好的减摩性，蜗杆材料常用有色金属。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 348,
+    "chapter": "蜗杆蜗轮",
+    "type": "判断题",
+    "question": "蜗杆蜗轮啮合是断续的，故有噪声。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 349,
+    "chapter": "蜗杆蜗轮",
+    "type": "判断题",
+    "question": "蜗杆传动中蜗轮为主动件。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 350,
+    "chapter": "蜗杆蜗轮",
+    "type": "判断题",
+    "question": "蜗杆传动传动比大，一般应用在减速机构和间断性工作的汽车维修机械上。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 351,
+    "chapter": "蜗杆蜗轮",
+    "type": "判断题",
+    "question": "蜗杆传动一般用于传动大功率、大速比的场合。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 352,
+    "chapter": "蜗杆蜗轮",
+    "type": "判断题",
+    "question": "蜗杆传动自锁是指蜗杆只能带动蜗轮转动，蜗轮不能带动蜗杆传动。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 353,
+    "chapter": "蜗杆蜗轮",
+    "type": "判断题",
+    "question": "蜗轮蜗杆啮合时，蜗轮的螺旋角和蜗杆的螺旋升角方向相反。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 354,
+    "chapter": "蜗杆蜗轮",
+    "type": "判断题",
+    "question": "蜗杆传动比齿轮传动效率高。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 355,
+    "chapter": "螺纹连接",
+    "type": "判断题",
+    "question": "普通螺栓连接，能精确固定被连接件的相对位置，并能承受横向载荷。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 356,
+    "chapter": "螺纹连接",
+    "type": "判断题",
+    "question": "螺纹联接是可拆联接。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 357,
+    "chapter": "螺纹连接",
+    "type": "判断题",
+    "question": "普通三角螺纹的牙型角是55°。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 358,
+    "chapter": "螺纹连接",
+    "type": "判断题",
+    "question": "判断螺纹或齿轮旋向时，将螺纹或齿轮直立放置，令其轴竖直，正视螺纹或齿轮，若螺纹或齿左高右低，则为左旋；若右高左低，则为右旋。还有一种方法，即右手定则，用右手四指握住螺纹或齿轮，若拇指指向与旋进方向相同，则为右旋，反之为左旋。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 359,
+    "chapter": "螺纹连接",
+    "type": "判断题",
+    "question": "紧定螺钉属于无头螺钉。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 360,
+    "chapter": "螺纹连接",
+    "type": "判断题",
+    "question": "螺纹连接常用的防松方法有机械防松、摩擦防松和永久防松3种。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 361,
+    "chapter": "螺纹连接",
+    "type": "判断题",
+    "question": "矩形螺纹常用于传动，属于标准螺纹。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 362,
+    "chapter": "螺纹连接",
+    "type": "判断题",
+    "question": "螺距一般大于导程。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 363,
+    "chapter": "螺纹连接",
+    "type": "判断题",
+    "question": "通常可用测力矩扳手或定力矩扳手来控制预紧力的大小。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 364,
+    "chapter": "螺纹连接",
+    "type": "判断题",
+    "question": "导程是指螺纹相邻两个牙型上对应点间的轴向距离。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 365,
+    "chapter": "螺纹连接",
+    "type": "判断题",
+    "question": "常用的螺纹连接的基本类型螺栓连接、螺柱连接、螺钉连接和紧定螺钉连接，其中双头螺柱连接可用螺钉连接代替。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 366,
+    "chapter": "螺纹连接",
+    "type": "判断题",
+    "question": "拆卸汽缸盖时应先中央后四周对角线交叉分两到三次逐步拆下缸汽盖。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 367,
+    "chapter": "螺纹连接",
+    "type": "判断题",
+    "question": "我国的管螺纹采用米制单位。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 368,
+    "chapter": "螺纹连接",
+    "type": "判断题",
+    "question": "顺时针旋转时旋入的螺纹称为左旋螺纹；逆时针旋转时旋入的螺纹称为右旋螺纹。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 369,
+    "chapter": "螺纹连接",
+    "type": "判断题",
+    "question": "大径、螺距和牙型都符合国家标准的规定的螺纹称为标准螺纹。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 370,
+    "chapter": "螺纹连接",
+    "type": "单选题",
+    "question": "螺纹联接中，预紧是防松的有力措施。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "对（A）",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 371,
+    "chapter": "螺纹连接",
+    "type": "单选题",
+    "question": "齿轮减速器的箱体与箱盖用螺纹联接，箱体被联接处的厚度不太大，且需经常拆装，一般宜选用（  ）联接。",
+    "options": [
+      "紧定螺钉",
+      "螺钉联接",
+      "螺栓联接",
+      "双头螺柱联接"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 372,
+    "chapter": "螺纹连接",
+    "type": "单选题",
+    "question": "用螺纹联接时，若被联接件总厚度较大，且材料较软，在需要经常装卸的情况下，宜采用（  ）。",
+    "options": [
+      "螺钉联接",
+      "双头螺栓联接",
+      "螺栓联接",
+      "紧定螺钉联接"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 373,
+    "chapter": "螺纹连接",
+    "type": "单选题",
+    "question": "常见的联接螺纹是（  ）。",
+    "options": [
+      "双线左旋",
+      "单线右旋"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 374,
+    "chapter": "螺纹连接",
+    "type": "单选题",
+    "question": "螺纹的公称直径是指（ ）。",
+    "options": [
+      "小径",
+      "顶径",
+      "大径",
+      "中径"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 375,
+    "chapter": "螺纹连接",
+    "type": "单选题",
+    "question": "标明17的普通扳手用来拧动M17的螺栓或螺母。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "错（A）（扳手规格对应的是螺栓的对边宽度，不是螺纹公称直径）",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 376,
+    "chapter": "螺纹连接",
+    "type": "单选题",
+    "question": "相配合的内外螺纹其旋向是相反的。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "错（A）（相配合的内外螺纹旋向必须相同才能旋合）",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 377,
+    "chapter": "螺纹连接",
+    "type": "单选题",
+    "question": "采用螺纹联接时，用于薄壁零件联接的螺纹，宜采用（ ）。",
+    "options": [
+      "三角形粗牙螺纹",
+      "矩形螺纹",
+      "三角形细牙螺纹",
+      "梯形螺纹"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 378,
+    "chapter": "螺纹连接",
+    "type": "单选题",
+    "question": "在螺栓联接中，有时在一个螺栓上采用双螺母，其目的是（ ）。",
+    "options": [
+      "提高强度",
+      "减小每圈螺纹牙上的受力",
+      "防松",
+      "提高刚度"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 379,
+    "chapter": "螺纹连接",
+    "type": "单选题",
+    "question": "采用螺纹联接时，若被联接件总厚度较大，不便制成通孔，不需要经常装卸的情况下，宜采用（ ）。",
+    "options": [
+      "紧定螺钉联接",
+      "螺栓联接",
+      "双头螺栓联接",
+      "螺钉联接"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 380,
+    "chapter": "螺纹连接",
+    "type": "多选题",
+    "question": "螺纹联接防松的目的是防止螺旋副在受载时发生相对转动，按工作原理的不同有（  ）（  ）和（  ）防松方式。",
+    "options": [
+      "摩擦防松",
+      "永久防松",
+      "弹性防松",
+      "机械防松"
+    ],
+    "answer": "ABD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 381,
+    "chapter": "轮系",
+    "type": "多选题",
+    "question": "轮系可分为三种类型，即（ ）。",
+    "options": [
+      "行星轮系",
+      "混合轮系",
+      "定轴轮系",
+      "周转轮系"
+    ],
+    "answer": "BCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 382,
+    "chapter": "轮系",
+    "type": "单选题",
+    "question": "轮系不可实现（ ）。",
+    "options": [
+      "改变从动轴回转方向",
+      "大的传动比",
+      "过载保护",
+      "较远距离的传动"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 383,
+    "chapter": "轮系",
+    "type": "单选题",
+    "question": "一对外啮合圆柱齿轮传动，传动比公式计算正确的是（ ）。",
+    "options": [
+      "i₁₂ = -Z₂/Z₁",
+      "i₁₂ = Z₂/Z₁",
+      "i₁₂ = Z₁/Z₂",
+      "i₁₂ = -Z₁/Z₂"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 384,
+    "chapter": "轮系",
+    "type": "单选题",
+    "question": "定轴轮系有下列情况：（1）所有齿轮轴线都不平行；（2）所有齿轮轴线平行；（3）首末两轮轴线不平行；（4）首末两轮轴线平行。其中有（ ）种情况下的传动比冠以正负号。",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 385,
+    "chapter": "轮系",
+    "type": "单选题",
+    "question": "由一系列相互啮合的齿轮组成的传动系统称（ ）。",
+    "options": [
+      "轮群",
+      "轮组",
+      "轮系",
+      "轮合"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 386,
+    "chapter": "轮系",
+    "type": "单选题",
+    "question": "轮系在下列功用中，（ ）必须依靠行星轮系实现。",
+    "options": [
+      "实现大的传动比",
+      "实现运动的合成与分解",
+      "实现分路传动",
+      "实现变速传动"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 387,
+    "chapter": "轮系",
+    "type": "单选题",
+    "question": "定轴轮系的传动比大小与惰轮的齿数（ ）。",
+    "options": [
+      "有关",
+      "成正比",
+      "无关",
+      "成反比"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 388,
+    "chapter": "轮系",
+    "type": "单选题",
+    "question": "行星轮系转化轮系传动比i为负值，则齿轮A与齿轮B转向（ ）。",
+    "options": [
+      "不一定",
+      "一定相反",
+      "一定相同"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 389,
+    "chapter": "轮系",
+    "type": "单选题",
+    "question": "轮系（ ）。",
+    "options": [
+      "不能获得很大的传动比",
+      "可以实现运动的合成但不能分解运动",
+      "不适宜作较远距离传动",
+      "可以实现变向和变速要求"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 390,
+    "chapter": "轮系",
+    "type": "单选题",
+    "question": "能实现无级变速的是（ ）。",
+    "options": [
+      "凸轮机构",
+      "液压传动",
+      "轮系",
+      "链轮传动"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 391,
+    "chapter": "轮系",
+    "type": "单选题",
+    "question": "在周转轮系中，轴线固定的齿轮为（ ）；兼有自转和公转的齿轮称为（ ）；而这种齿轮的动轴线所在的构件称为（ ）。",
+    "options": [
+      "齿圈、行星轮、机架",
+      "行星轮、太阳轮、机架",
+      "太阳轮、行星轮、行星架",
+      "齿圈、太阳轮、行星架"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 392,
+    "chapter": "轮系",
+    "type": "单选题",
+    "question": "惰轮在轮系中的作用如下：（1）改变从动轮转向；（2）改变从动轮转速；（3）调节齿轮轴间距离；（4）提高齿轮强度。其中有（ ）个作用是正确的。",
+    "options": [
+      "2个",
+      "3个",
+      "1个",
+      "4个"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 393,
+    "chapter": "轮系",
+    "type": "单选题",
+    "question": "当定轴轮系中各传动轴（ ）时，只能用标注箭头的方法确定各轮的转向。",
+    "options": [
+      "平行",
+      "异交",
+      "不平行",
+      "交错"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 394,
+    "chapter": "轮系",
+    "type": "单选题",
+    "question": "在由一对外啮合直齿圆柱齿轮组成的传动中，若增加（ ）个惰轮则使其主、从动轮的转向相反。",
+    "options": [
+      "二者都不是",
+      "偶数",
+      "二者都是",
+      "奇数"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 395,
+    "chapter": "轮系",
+    "type": "单选题",
+    "question": "惰轮在轮系中不影响传动比大小只影响从动轮（ ）。",
+    "options": [
+      "转速",
+      "传动比",
+      "齿数",
+      "旋转方向"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 396,
+    "chapter": "轮系",
+    "type": "单选题",
+    "question": "定轴轮系的传动比等于所有（ ）齿数的连乘积与所有主动轮齿数的连乘积之比。",
+    "options": [
+      "从动轮",
+      "主动轮",
+      "齿轮",
+      "惰轮"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 397,
+    "chapter": "轮系",
+    "type": "单选题",
+    "question": "定轴轮系中各齿轮的几何轴线位置都是（ ）。",
+    "options": [
+      "相交的",
+      "活动的",
+      "固定的",
+      "交错的"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 398,
+    "chapter": "轮系",
+    "type": "填空题",
+    "question": "定轴轮系的传动比是指轮系中（ ）的转速与（ ）的转速之比。",
+    "options": [],
+    "answer": "主动轮；从动轮",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 399,
+    "chapter": "轮系",
+    "type": "填空题",
+    "question": "由一系列相互啮合的齿轮组成的传动系统称为（ ）。",
+    "options": [],
+    "answer": "轮系",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 400,
+    "chapter": "轮系",
+    "type": "填空题",
+    "question": "轮系中的惰轮只改变从动轮的（ ），而不改变主动轮与从动轮的（ ）大小。",
+    "options": [],
+    "answer": "转速；传递扭矩",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 401,
+    "chapter": "轮系",
+    "type": "填空题",
+    "question": "按传动时各齿轮的（ ）在空间的相对位置是否固定，可将轮系分为（ ）轮系和（ ）轮系两大类。",
+    "options": [],
+    "answer": "轴线；定轴；行星",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 402,
+    "chapter": "轮系",
+    "type": "判断题",
+    "question": "周转轮系的传动比等于各对齿轮传动比的连乘积。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 403,
+    "chapter": "轮系",
+    "type": "判断题",
+    "question": "轮系可以分为定轴轮系和周转轮系，其中，差动轮系属于定轴轮系。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 404,
+    "chapter": "轮系",
+    "type": "判断题",
+    "question": "组成周转轮系的基本构件有太阳轮、行星轮、齿圈、行星架。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 405,
+    "chapter": "轮系",
+    "type": "判断题",
+    "question": "定轴轮系的传动比等于各对齿轮传动比的连乘积。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 406,
+    "chapter": "轮系",
+    "type": "判断题",
+    "question": "在轮系中，惰轮既能改变传动比大小，也能改变转动方向。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 407,
+    "chapter": "轮系",
+    "type": "判断题",
+    "question": "定轴轮系是指所有齿轮轴线都固定的轮系，而周转轮系是指所有齿轮的轴线都可以绕另一个齿轮轴线旋转的轮系。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 408,
+    "chapter": "轮系",
+    "type": "判断题",
+    "question": "轮系可合成运动，但不可分解运动。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 409,
+    "chapter": "轮系",
+    "type": "判断题",
+    "question": "在轮系的传动中，有一种不影响传动比大小，只起改变转向作用的齿轮，我们把它称为行星轮。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 410,
+    "chapter": "轮系",
+    "type": "判断题",
+    "question": "汽车自动变速器利用单排行星齿轮可以实现超速挡、直接挡、减速挡和倒挡。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 411,
+    "chapter": "轮系",
+    "type": "判断题",
+    "question": "轮系的传动比指轮系中首、末两轮的齿数比。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 412,
+    "chapter": "轮系",
+    "type": "判断题",
+    "question": "汽车手动变速器常采用定轴轮系，驱动桥中的差速器称为周转轮系。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 413,
+    "chapter": "轴",
+    "type": "单选题",
+    "question": "在轴连接中能够起到周向和轴向定位的是（ ）。",
+    "options": [
+      "挡环",
+      "紧定螺钉",
+      "轴肩",
+      "套筒"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 414,
+    "chapter": "轴",
+    "type": "单选题",
+    "question": "工作中既承受弯距又承受转矩的轴，称为（ ）。",
+    "options": [
+      "转轴",
+      "心轴",
+      "传动轴"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 415,
+    "chapter": "轴",
+    "type": "单选题",
+    "question": "（ ）是针对装配而言的，是为了保证轴上零件准确的安装位置。而（ ）是针对工件而言的，是为了使轴上零件在运转中保持原位不动。",
+    "options": [
+      "固定，定位",
+      "定位，定位",
+      "定位，固定",
+      "固定，固定"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 416,
+    "chapter": "轴",
+    "type": "单选题",
+    "question": "汽车下部，由发动机、变速器、通过万向联轴器带动后轮差速器的轴，是（ ）。",
+    "options": [
+      "心轴",
+      "传动轴",
+      "转轴"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 417,
+    "chapter": "轴",
+    "type": "单选题",
+    "question": "阶梯轴上最常用的轴向固定方法是（ ）。",
+    "options": [
+      "套筒",
+      "轴肩和轴环",
+      "轴端挡圈",
+      "弹性挡圈"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 418,
+    "chapter": "轴",
+    "type": "单选题",
+    "question": "工作时只承受扭矩的轴称为（ ）。",
+    "options": [
+      "转轴",
+      "传动轴",
+      "空心轴",
+      "心轴"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 419,
+    "chapter": "轴",
+    "type": "单选题",
+    "question": "按承受载荷的性质分类，减速器中的齿轮轴属于（ ）。",
+    "options": [
+      "传动轴",
+      "固定心轴",
+      "转动心轴",
+      "转轴"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 420,
+    "chapter": "轴",
+    "type": "单选题",
+    "question": "对齿轮、带轮等的轴向定位常采用（ ）。",
+    "options": [
+      "键",
+      "轴肩",
+      "圆螺母",
+      "挡圈"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 421,
+    "chapter": "轴",
+    "type": "单选题",
+    "question": "增大轴在截面变化处的圆角半径，有利于（ ）。",
+    "options": [
+      "使轴加工方便",
+      "降低应力集中，提高轴的疲劳强度",
+      "零件的轴向定位"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 422,
+    "chapter": "轴",
+    "type": "单选题",
+    "question": "轴上与轴承配合的部分称为（ ）、与传动零件或联轴器、离合器配合的部分称为（ ）；连接轴头与轴颈的部分称为（ ）。",
+    "options": [
+      "轴环、轴颈、轴头",
+      "轴颈、轴头、轴身",
+      "轴颈、轴身、轴头",
+      "轴身、轴头、轴颈"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 423,
+    "chapter": "轴",
+    "type": "单选题",
+    "question": "采用轴肩定位时，轴肩圆角r1、轮毂圆角r2和轴肩高h的关系应为：（ ）",
+    "options": [
+      "r1&lt;r2&lt;h",
+      "r1&gt;r2&gt;h",
+      "r1=r2=h",
+      "r2&gt;r1&gt;h"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 424,
+    "chapter": "轴",
+    "type": "单选题",
+    "question": "自行车的前轴是（ ）。",
+    "options": [
+      "传动轴",
+      "转轴",
+      "心轴",
+      "阶梯轴"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 425,
+    "chapter": "轴",
+    "type": "单选题",
+    "question": "为了使轴上零件的端面靠紧定位面，安装零件的轴头长度应（ ）轮毂的宽度。",
+    "options": [
+      "大于",
+      "等于",
+      "以上皆可",
+      "小于"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 426,
+    "chapter": "轴",
+    "type": "多选题",
+    "question": "轴环的作用是（ ）。",
+    "options": [
+      "加工轴时的定位面",
+      "提高轴的强度",
+      "使轴上零件获得轴向固定",
+      "以上都正确"
+    ],
+    "answer": "AC",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 427,
+    "chapter": "轴",
+    "type": "多选题",
+    "question": "属于轴段名称的有（ ）。",
+    "options": [
+      "轴承",
+      "轴径",
+      "轴肩",
+      "轴头"
+    ],
+    "answer": "BCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 428,
+    "chapter": "轴",
+    "type": "多选题",
+    "question": "转动零件在轴上的定位分为（ ）。",
+    "options": [
+      "切向",
+      "对向",
+      "周向",
+      "轴向"
+    ],
+    "answer": "CD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 429,
+    "chapter": "轴",
+    "type": "多选题",
+    "question": "按承载性质，轴分为（ ）。",
+    "options": [
+      "转轴",
+      "心轴",
+      "曲轴",
+      "传动轴"
+    ],
+    "answer": "ABD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 430,
+    "chapter": "轴",
+    "type": "多选题",
+    "question": "属于轴向定位的有（ ）。",
+    "options": [
+      "套筒",
+      "轴环",
+      "轴肩",
+      "花键"
+    ],
+    "answer": "ABC",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 431,
+    "chapter": "轴",
+    "type": "多选题",
+    "question": "轴的主要作用有（ ）。",
+    "options": [
+      "支撑转动零件",
+      "吸收振动能量",
+      "确定转动件的工作位置",
+      "传递动力"
+    ],
+    "answer": "ACD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 432,
+    "chapter": "轴",
+    "type": "多选题",
+    "question": "属于对轴上零件周向定位的方法有（ ）。",
+    "options": [
+      "销连接",
+      "轴肩",
+      "过盈配合",
+      "键连接"
+    ],
+    "answer": "ACD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 433,
+    "chapter": "轴",
+    "type": "多选题",
+    "question": "轴按照承受载荷可以分为？",
+    "options": [
+      "心轴",
+      "曲轴",
+      "转轴",
+      "传动轴"
+    ],
+    "answer": "ACD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 434,
+    "chapter": "轴",
+    "type": "多选题",
+    "question": "属于轴采用材料的是（ ）。",
+    "options": [
+      "塑料",
+      "合金钢",
+      "球墨铸铁",
+      "碳素钢"
+    ],
+    "answer": "BCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 435,
+    "chapter": "轴",
+    "type": "多选题",
+    "question": "属于对轴上零件进行周向定位的（ ）。",
+    "options": [
+      "键连接",
+      "销连接",
+      "过盈连接",
+      "轴间"
+    ],
+    "answer": "ABC",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 436,
+    "chapter": "轴",
+    "type": "填空题",
+    "question": "自行车的前轮轴是（ ）。",
+    "options": [],
+    "answer": "心轴",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 437,
+    "chapter": "轴",
+    "type": "判断题",
+    "question": "自行车的前轮轴是心轴。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 438,
+    "chapter": "轴",
+    "type": "判断题",
+    "question": "轴颈因疲劳而产生高温导致轴的\"烧轴\"失效。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 439,
+    "chapter": "轴",
+    "type": "判断题",
+    "question": "对轴上零件进行周向定位是为了保证轴上转动零件与轴能作相对运动。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 440,
+    "chapter": "轴",
+    "type": "判断题",
+    "question": "对轴上零件进行周向定位目的是使转动零件与轴作相对转动。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 441,
+    "chapter": "轴",
+    "type": "判断题",
+    "question": "轴的作用是支承轴上的旋转零件，传递运动和动力。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 442,
+    "chapter": "轴",
+    "type": "判断题",
+    "question": "自行车前轮轴和后轮轴都是转动心轴。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 443,
+    "chapter": "轴",
+    "type": "判断题",
+    "question": "转轴在工作中只受弯矩作用而不传递扭矩。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 444,
+    "chapter": "轴",
+    "type": "判断题",
+    "question": "轴的常用材料是碳钢和合金钢。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 445,
+    "chapter": "轴",
+    "type": "判断题",
+    "question": "轴的直径均需符合标准直径系列，轴颈的直径尺寸也一样，且与轴承内孔的标准直径无关。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 446,
+    "chapter": "轴",
+    "type": "判断题",
+    "question": "汽车变速箱与后桥之间的轴是传动轴，它的功用是传递运动和动力。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 447,
+    "chapter": "轴",
+    "type": "判断题",
+    "question": "用轴肩（轴环）可对轴上零件作周向固定。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 448,
+    "chapter": "轴",
+    "type": "判断题",
+    "question": "轴上零件的周向定位一般采用轴端挡圈和圆螺母。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 449,
+    "chapter": "轴",
+    "type": "判断题",
+    "question": "定位是针对装配而言，是为了保证轴上零件准确的安装位置。而固定是针对工件而言，是为了使轴上零件在运转中保持原位不动。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 450,
+    "chapter": "轴",
+    "type": "判断题",
+    "question": "工作中只受弯矩不传递扭矩的轴叫心轴；只传递扭矩不受弯矩的轴叫传动轴；同时承受弯矩和扭矩的轴叫转轴。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 451,
+    "chapter": "轴",
+    "type": "判断题",
+    "question": "阶梯轴的截面尺寸变化处采用圆角过渡目的是为了便于加工。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 452,
+    "chapter": "销链接",
+    "type": "单选题",
+    "question": "普通圆柱销的配合性质为？",
+    "options": [
+      "过渡配合",
+      "任意配合",
+      "过盈配合",
+      "间隙配合"
+    ],
+    "answer": "C",
+    "explanation": "普通圆柱销为过盈配合，多次拆装后定位精度会降低。",
+    "image": ""
+  },
+  {
+    "id": 453,
+    "chapter": "销链接",
+    "type": "单选题",
+    "question": "拆装活塞销时，应使用哪种工具取出活塞销？",
+    "options": [
+      "活塞销专用冲头",
+      "手锤直接敲击",
+      "螺丝刀",
+      "扳手"
+    ],
+    "answer": "A",
+    "explanation": "取出活塞销时，应使用活塞销专用冲头，避免直接用手锤敲击损坏零件。",
+    "image": ""
+  },
+  {
+    "id": 454,
+    "chapter": "销链接",
+    "type": "单选题",
+    "question": "圆锥销的锥度为？",
+    "options": [
+      "1:10",
+      "1:50",
+      "1:20",
+      "1:100"
+    ],
+    "answer": "B",
+    "explanation": "圆锥销具有1:50的锥度，可反复多次拆装，定位精度较高。",
+    "image": ""
+  },
+  {
+    "id": 455,
+    "chapter": "销链接",
+    "type": "单选题",
+    "question": "下列哪种销属于安全装置中的过载剪切元件？",
+    "options": [
+      "圆锥销",
+      "圆柱销",
+      "开口销",
+      "安全销"
+    ],
+    "answer": "D",
+    "explanation": "安全销作为安全装置中的过载剪切元件，在过载时会被剪断，从而保护其他零件。圆柱销和圆锥销主要用于定位和连接，开口销用于防止螺母松动。",
+    "image": ""
+  },
+  {
+    "id": 456,
+    "chapter": "销链接",
+    "type": "多选题",
+    "question": "按形状分类，销的类型包括？",
+    "options": [
+      "圆柱销",
+      "圆锥销",
+      "开口销",
+      "槽销"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 457,
+    "chapter": "销链接",
+    "type": "多选题",
+    "question": "弹性圆柱销的特点包括？",
+    "options": [
+      "不可多次装拆",
+      "用弹簧钢带制成",
+      "纵向开缝",
+      "销孔无需铰光"
+    ],
+    "answer": "BCD",
+    "explanation": "弹性圆柱销是用弹簧钢带制成的纵向开缝的钢管，利用材料的弹性将销挤紧在销孔中，销孔无需铰光，可多次装拆。",
+    "image": ""
+  },
+  {
+    "id": 458,
+    "chapter": "销链接",
+    "type": "多选题",
+    "question": "关于定位销，下列说法正确的是？",
+    "options": [
+      "数目一般不少于2个",
+      "通常不受载荷或只受很小载荷",
+      "需要进行强度校核计算",
+      "直径按结构确定"
+    ],
+    "answer": "ABD",
+    "explanation": "定位销通常不受载荷或只受很小载荷，故不作强度校核计算，其直径按结构确定，数目一般不少于2个以保证定位精度。",
+    "image": ""
+  },
+  {
+    "id": 459,
+    "chapter": "销链接",
+    "type": "多选题",
+    "question": "销连接的主要作用包括？",
+    "options": [
+      "作为安全装置",
+      "传递较大载荷",
+      "传递不大的载荷",
+      "固定零件相对位置"
+    ],
+    "answer": "ACD",
+    "explanation": "销连接主要用于固定零件相对位置、传递不大的载荷，部分销（如安全销）可作为安全装置。销连接不适合传递较大载荷。",
+    "image": ""
+  },
+  {
+    "id": 460,
+    "chapter": "销链接",
+    "type": "判断题",
+    "question": "开口销必须单独使用。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 461,
+    "chapter": "销链接",
+    "type": "判断题",
+    "question": "装入活塞销时，可用手锤直接打入。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 462,
+    "chapter": "销链接",
+    "type": "判断题",
+    "question": "普通圆柱销多次装拆后，定位精度不会降低。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 463,
+    "chapter": "销链接",
+    "type": "判断题",
+    "question": "销是一种标准零件。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 464,
+    "chapter": "键连接",
+    "type": "单选题",
+    "question": "下图中的连接方式属于（ ）。",
+    "options": [
+      "渐开线花键连接",
+      "楔键连接",
+      "半圆键连接",
+      "平键连接"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 465,
+    "chapter": "键连接",
+    "type": "单选题",
+    "question": "键连接的主要用途是使轮与轮毂之间（ ）。",
+    "options": [
+      "沿轴向相对滑动并具有导向性",
+      "沿周向固定并传递扭矩",
+      "安装拆卸方便",
+      "沿轴向固定并传递轴向力"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 466,
+    "chapter": "键连接",
+    "type": "单选题",
+    "question": "下图中的连接方式属于（ ）。",
+    "options": [
+      "普通平键连接",
+      "半圆键连接",
+      "花键连接",
+      "滑键连接"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 467,
+    "chapter": "键连接",
+    "type": "单选题",
+    "question": "在变速箱中，要求滑动齿轮能在轴上有一定移动范围，轮与轴宜选用（ ）。",
+    "options": [
+      "导向键联接",
+      "花键连接",
+      "半圆键联接",
+      "普通平键联接"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 468,
+    "chapter": "键连接",
+    "type": "单选题",
+    "question": "键联接的主要用途是使轮与轮毂之间（ ）。",
+    "options": [
+      "安装拆卸方便",
+      "沿周向固定并传递扭距",
+      "沿轴向可作相对滑动并具有导向性",
+      "沿轴向固定并传递轴向力"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 469,
+    "chapter": "键连接",
+    "type": "多选题",
+    "question": "属于平键有（ ）。",
+    "options": [
+      "滑键",
+      "导向键",
+      "花键",
+      "普通平键"
+    ],
+    "answer": "ABD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 470,
+    "chapter": "键连接",
+    "type": "多选题",
+    "question": "花键连接由（ ）组成。",
+    "options": [
+      "外花键轴",
+      "内花键槽",
+      "外花键槽",
+      "里花键槽"
+    ],
+    "answer": "AB",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 471,
+    "chapter": "键连接",
+    "type": "填空题",
+    "question": "机械静连接又可以分为（ ）连接和（ ）连接，其中键连接、螺纹连接、销连接属于（ ）。",
+    "options": [],
+    "answer": "不可拆；可拆；可拆连接",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 472,
+    "chapter": "键连接",
+    "type": "判断题",
+    "question": "普通平键联接的上下两表面是工作面，是依靠键的上下两面的摩擦力来传递扭距的。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 473,
+    "chapter": "键连接",
+    "type": "判断题",
+    "question": "键是非标准件。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 474,
+    "chapter": "键连接",
+    "type": "判断题",
+    "question": "半圆键能在键槽中摆动。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 475,
+    "chapter": "键连接",
+    "type": "判断题",
+    "question": "楔键的上表面和键槽底面均有1:100的斜度。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 476,
+    "chapter": "键连接",
+    "type": "判断题",
+    "question": "楔键的工作面是键的上下平面。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 477,
+    "chapter": "键连接",
+    "type": "判断题",
+    "question": "花键联接按照齿形不同分为渐开线花键、矩形花键。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 478,
+    "chapter": "键连接",
+    "type": "判断题",
+    "question": "平键联接工作时，是靠键和键槽侧面的挤压传递转矩的。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 479,
+    "chapter": "键连接",
+    "type": "判断题",
+    "question": "导向键和滑键的连接运动情况相同。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 480,
+    "chapter": "间歇运动机构",
+    "type": "单选题",
+    "question": "汽车上的配气机构采用的是（ ）。",
+    "options": [
+      "盘形凸轮机构",
+      "圆柱凸轮机构",
+      "移动凸轮机构",
+      "摆动凸轮机构"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 481,
+    "chapter": "间歇运动机构",
+    "type": "单选题",
+    "question": "从动件的运动规律取决于（ ）。",
+    "options": [
+      "从动件的形状",
+      "凸轮基圆半径",
+      "凸轮轮廓曲线的形状",
+      "凸轮的转速"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 482,
+    "chapter": "间歇运动机构",
+    "type": "单选题",
+    "question": "组成凸轮机构的基本构件有（ ）个。",
+    "options": [
+      "4个",
+      "2个",
+      "3个"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 483,
+    "chapter": "间歇运动机构",
+    "type": "单选题",
+    "question": "凸轮机构的组成不包括（ ）。",
+    "options": [
+      "棘轮",
+      "凸轮",
+      "机架",
+      "从动件"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 484,
+    "chapter": "间歇运动机构",
+    "type": "单选题",
+    "question": "当凸轮尺寸小且接近轴径时，则凸轮与轴做成一体，称为（ ）。",
+    "options": [
+      "整体式凸轮",
+      "凸轮轴",
+      "可调式凸轮",
+      "轴凸轮"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 485,
+    "chapter": "间歇运动机构",
+    "type": "单选题",
+    "question": "自行车后轴飞轮机构使用（ ）机构。",
+    "options": [
+      "棘轮",
+      "不完全齿轮",
+      "凸轮",
+      "槽轮"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 486,
+    "chapter": "间歇运动机构",
+    "type": "单选题",
+    "question": "与平面连杆机构相比，凸轮机构的突出优点是（ ）。",
+    "options": [
+      "能严格的实现给定的从动件运动规律",
+      "能实现间歇运动",
+      "能实现多种运动形式的变换",
+      "传力性能好"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 487,
+    "chapter": "间歇运动机构",
+    "type": "单选题",
+    "question": "凸轮轮廓与从动件之间的可动联接是（ ）。",
+    "options": [
+      "高副",
+      "可能是高副也可能是低副",
+      "移动副",
+      "转动副"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 488,
+    "chapter": "间歇运动机构",
+    "type": "单选题",
+    "question": "（ ）常用于内燃机配气机构。",
+    "options": [
+      "棘轮机构",
+      "槽轮机构",
+      "平面四杆机构",
+      "凸轮机构"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 489,
+    "chapter": "间歇运动机构",
+    "type": "单选题",
+    "question": "凸轮机构主要用于（ ）的转换。",
+    "options": [
+      "能量",
+      "运动形式",
+      "动力大小",
+      "运动方向"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 490,
+    "chapter": "间歇运动机构",
+    "type": "单选题",
+    "question": "在移动从动件盘形凸轮机构中，（ ）传力性能最好。",
+    "options": [
+      "尖顶从动件",
+      "滚子从动件",
+      "平底从动件",
+      "以上皆非"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 491,
+    "chapter": "间歇运动机构",
+    "type": "单选题",
+    "question": "凸轮机构最大的优点是（ ）。",
+    "options": [
+      "从动件可以得到任意预定的运动规律",
+      "加工比较容易",
+      "凸轮机构与从动件间不易磨损",
+      "传递力较大"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 492,
+    "chapter": "间歇运动机构",
+    "type": "多选题",
+    "question": "槽轮机构由（ ）组成。",
+    "options": [
+      "齿轮",
+      "机架",
+      "主动拨盘",
+      "槽轮"
+    ],
+    "answer": "BCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 493,
+    "chapter": "间歇运动机构",
+    "type": "多选题",
+    "question": "常见的间隙运动机构有（ ）。",
+    "options": [
+      "不完全齿轮机构",
+      "槽轮机构",
+      "凸轮机构",
+      "棘轮机构"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 494,
+    "chapter": "间歇运动机构",
+    "type": "多选题",
+    "question": "属于棘轮机构组成的有（ ）。",
+    "options": [
+      "棘轮",
+      "齿轮",
+      "摇杆",
+      "棘爪"
+    ],
+    "answer": "ACD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 495,
+    "chapter": "间歇运动机构",
+    "type": "判断题",
+    "question": "改变棘轮机构中的摇杆摆角可以改变棘轮转角大小。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 496,
+    "chapter": "间歇运动机构",
+    "type": "判断题",
+    "question": "在配气机构的工作循环内，曲轴转一周，凸轮轴转一周，进气门、排气门各启闭一次。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 497,
+    "chapter": "间歇运动机构",
+    "type": "判断题",
+    "question": "凸轮机构是将凸轮的旋转运动转变为从动件的往复直线运动的机构。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 498,
+    "chapter": "间歇运动机构",
+    "type": "判断题",
+    "question": "不完全齿轮机构的主动轮上的轮齿越多，从动轮转过的角度越大。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 499,
+    "chapter": "间歇运动机构",
+    "type": "判断题",
+    "question": "槽轮机构主动盘上的圆柱销未进入径向槽时，槽轮通过锁止弧锁止静止。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 500,
+    "chapter": "间歇运动机构",
+    "type": "判断题",
+    "question": "棘轮机构工作原理由主动棘爪推动，制动棘爪阻止实现。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 501,
+    "chapter": "间歇运动机构",
+    "type": "判断题",
+    "question": "主动件做连续运动，从动件做随机性的运动和停歇的运动机构，称为间歇运动机构。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 502,
+    "chapter": "间歇运动机构",
+    "type": "判断题",
+    "question": "凸轮机构也可以实现间歇运动。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 503,
+    "chapter": "间歇运动机构",
+    "type": "判断题",
+    "question": "不完全齿轮机构是在从动齿轮上加工1个或几个轮齿。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 504,
+    "chapter": "间歇运动机构",
+    "type": "判断题",
+    "question": "棘轮机构常用于高速运动的场合。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 505,
+    "chapter": "间歇运动机构",
+    "type": "判断题",
+    "question": "用尖嘴钳压气门就能方便的取出气门锁片。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 506,
+    "chapter": "静力学",
+    "type": "判断题",
+    "question": "物体在平面汇交力系作用下平衡的必要和充分条件是合力等于零。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 507,
+    "chapter": "静力学",
+    "type": "判断题",
+    "question": "作用在刚体上的力可以平行移到刚体内任一点而不改变物体的运动效应。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 508,
+    "chapter": "静力学",
+    "type": "判断题",
+    "question": "物体在平面汇交力系平衡的充分必要条件是合力等于零。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 509,
+    "chapter": "静力学",
+    "type": "判断题",
+    "question": "力在坐标轴上的投影只有大小，没有正负之分。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 510,
+    "chapter": "静力学",
+    "type": "判断题",
+    "question": "作用在刚体上的力可以平行移到刚体内任一点而不改变物体的运动效应。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 511,
+    "chapter": "静力学",
+    "type": "判断题",
+    "question": "力在坐标轴上的投影有正负之分。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 512,
+    "chapter": "静力学",
+    "type": "判断题",
+    "question": "平面力系是指力系中各力的作用线在同一平面上。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 513,
+    "chapter": "静力学",
+    "type": "判断题",
+    "question": "作用在刚体上的力可以沿力的作用线移到刚体内任一点而不改变物体的运动效应。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 514,
+    "chapter": "静力学",
+    "type": "判断题",
+    "question": "平面汇交力系是所有力都必须在同一平面内，力的作用线相交，但可以不在同一点。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 515,
+    "chapter": "静力学",
+    "type": "多选题",
+    "question": "物体在平面汇交力系平衡的充分必要条件是合力等于零，满足条件（ ）。",
+    "options": [
+      "∑Fx=0",
+      "∑Fy=0",
+      "以上条件都需要满足",
+      "∑Fz=0"
+    ],
+    "answer": "AB",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 516,
+    "chapter": "静力学",
+    "type": "多选题",
+    "question": "下列哪些选项属于平面力系。",
+    "options": [
+      "平面任意力系",
+      "平面力偶系",
+      "平面汇交力系",
+      "平面平行力系"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 517,
+    "chapter": "静力学",
+    "type": "单选题",
+    "question": "一个力为3N，另一个力为4N，合力最大为多少N？",
+    "options": [
+      "8",
+      "7",
+      "1",
+      "5"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 518,
+    "chapter": "静力学",
+    "type": "单选题",
+    "question": "图中A点处的约束是（ ）。",
+    "options": [
+      "光滑表面约束",
+      "固定铰链约束",
+      "柔性约束",
+      "固定端约束"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": "![第十三题](https://raw.githubusercontent.com/1145225/idn/main/02静力学第二次课作业/第十三题.jpg)"
+  },
+  {
+    "id": 519,
+    "chapter": "静力学",
+    "type": "单选题",
+    "question": "如图所示，在不考虑摩擦力的情况下，地面障碍B给碾子的约束反力属于：",
+    "options": [
+      "固定铰链约束",
+      "固定端约束",
+      "光滑表面约束",
+      "柔性约束"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": "![第十四题](https://raw.githubusercontent.com/1145225/idn/main/02静力学第二次课作业/第十四题.png)"
+  },
+  {
+    "id": 520,
+    "chapter": "齿轮传动",
+    "type": "多选题",
+    "question": "仿形法加工齿轮常用刀具有（ ）。",
+    "options": [
+      "插刀",
+      "滚刀",
+      "指状铣刀",
+      "盘状铣刀"
+    ],
+    "answer": "CD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 521,
+    "chapter": "齿轮传动",
+    "type": "多选题",
+    "question": "正确啮合的一对斜齿圆柱齿轮条件是（ ）相等。",
+    "options": [
+      "法面压力角",
+      "重合度",
+      "螺旋角",
+      "法面模数"
+    ],
+    "answer": "ACD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 522,
+    "chapter": "齿轮传动",
+    "type": "多选题",
+    "question": "直齿锥齿轮的正确啮合条件有（ ）相等。",
+    "options": [
+      "锥距",
+      "锥角",
+      "大端分度圆上的压力角",
+      "大端分度圆上的模数"
+    ],
+    "answer": "CD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 523,
+    "chapter": "齿轮传动",
+    "type": "多选题",
+    "question": "齿轮常用材料有（ ）。",
+    "options": [
+      "优质碳素钢",
+      "铸铁",
+      "低碳合金钢",
+      "非金属材料"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 524,
+    "chapter": "齿轮传动",
+    "type": "多选题",
+    "question": "属于轮齿失效形式的有（ ）。",
+    "options": [
+      "轮齿折断",
+      "齿面啮合",
+      "齿面点蚀",
+      "齿面磨损"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 525,
+    "chapter": "齿轮传动",
+    "type": "多选题",
+    "question": "闭式齿轮常用的润滑方法有（ ）润滑。",
+    "options": [
+      "黄油",
+      "浸油",
+      "喷油",
+      "溅油"
+    ],
+    "answer": "BCD",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 526,
+    "chapter": "齿轮传动",
+    "type": "单选题",
+    "question": "齿轮传动中，齿面间落入灰尘、铁屑等物质时，齿面逐渐磨损，称为（ ）。",
+    "options": [
+      "齿面胶合",
+      "齿面塑性变形",
+      "齿面点蚀",
+      "齿面磨损"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 527,
+    "chapter": "齿轮传动",
+    "type": "单选题",
+    "question": "齿轮传动失效主要发生在（ ）部分。",
+    "options": [
+      "轮轴",
+      "轮辐",
+      "轮齿",
+      "轮毂"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 528,
+    "chapter": "齿轮传动",
+    "type": "单选题",
+    "question": "在重载齿轮传动中，因啮合区温度高引起润滑失效，致使两齿面金属直接接触并相互粘结，齿面被撕下形成沟纹，称为（ ）。",
+    "options": [
+      "齿面塑性变形",
+      "齿面磨损",
+      "齿面点蚀",
+      "齿面胶合"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 529,
+    "chapter": "齿轮传动",
+    "type": "单选题",
+    "question": "用展成法加工齿轮时，若刀具的齿顶切入轮齿的根部，会将轮齿齿根的渐开线齿廓切去一部分，这种现象称为轮齿的（ ）。",
+    "options": [
+      "根掉",
+      "根丢",
+      "根去",
+      "根切"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 530,
+    "chapter": "齿轮传动",
+    "type": "单选题",
+    "question": "正常标准渐开线直齿轮，最少齿数为（ ）。",
+    "options": [
+      "17",
+      "16",
+      "18",
+      "19"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 531,
+    "chapter": "齿轮传动",
+    "type": "单选题",
+    "question": "闭式齿轮的润滑方法主要根据齿轮（ ）来选择。",
+    "options": [
+      "尺寸",
+      "圆周速度",
+      "载重量",
+      "材料"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 532,
+    "chapter": "齿轮传动",
+    "type": "单选题",
+    "question": "锥齿轮的轴线与分度圆锥母线的夹角叫做（ ）。",
+    "options": [
+      "螺旋角",
+      "轴夹角",
+      "圆锥角",
+      "压力角"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 533,
+    "chapter": "齿轮传动",
+    "type": "单选题",
+    "question": "大直径（>500mm）尺寸齿轮结构采用（ ）结构形式。",
+    "options": [
+      "辐条式",
+      "实心式",
+      "轮辐式",
+      "腹板式"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 534,
+    "chapter": "齿轮传动",
+    "type": "单选题",
+    "question": "相比较直齿圆柱齿轮，斜齿圆柱齿轮传动平稳、承载能力高的主要原因是斜齿的（ ）比直齿大的多。",
+    "options": [
+      "螺旋角",
+      "压力角",
+      "齿数",
+      "重合度"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 535,
+    "chapter": "齿轮传动",
+    "type": "单选题",
+    "question": "可加工连续的是（ ）。",
+    "options": [
+      "滚齿法",
+      "插齿法",
+      "锯齿法",
+      "仿形法"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 536,
+    "chapter": "齿轮传动",
+    "type": "单选题",
+    "question": "齿轮精度等级有（ ）级。",
+    "options": [
+      "13",
+      "14",
+      "11",
+      "12"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 537,
+    "chapter": "齿轮传动",
+    "type": "单选题",
+    "question": "规定锥齿轮取（ ）的参数为标准值。",
+    "options": [
+      "末端",
+      "小端",
+      "中端",
+      "大端"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 538,
+    "chapter": "齿轮传动",
+    "type": "单选题",
+    "question": "（ ）法加工常用在大批量加工齿轮中。",
+    "options": [
+      "滚齿",
+      "根切",
+      "仿形",
+      "插齿"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 539,
+    "chapter": "齿轮传动",
+    "type": "判断题",
+    "question": "齿轮传动的重合度是用来衡量一对啮合齿轮同时参与啮合轮齿的数目的。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 540,
+    "chapter": "齿轮传动",
+    "type": "判断题",
+    "question": "轮齿弯曲疲劳折断是因为弯曲应力超过弯曲疲劳极限造成的。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 541,
+    "chapter": "齿轮传动",
+    "type": "判断题",
+    "question": "仿形法加工连续，精度高。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 542,
+    "chapter": "齿轮传动",
+    "type": "判断题",
+    "question": "齿面点蚀是因为长时间交变应力下，出现微小剥落而形成的麻点。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 543,
+    "chapter": "齿轮传动",
+    "type": "判断题",
+    "question": "斜齿圆柱齿轮不产生根切的最少齿数比直齿圆柱齿轮的少。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 544,
+    "chapter": "齿轮传动",
+    "type": "判断题",
+    "question": "斜齿圆柱齿轮的端面参数是标准值。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 545,
+    "chapter": "齿轮传动",
+    "type": "判断题",
+    "question": "斜齿圆柱齿轮传动的冲击、振动和噪声小，是因为斜齿传动啮合过程是逐渐进行的。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 546,
+    "chapter": "齿轮传动",
+    "type": "判断题",
+    "question": "齿轮毛坯制造方法有铸造和锻造。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 547,
+    "chapter": "齿轮传动",
+    "type": "判断题",
+    "question": "加工齿轮时，尽量发生根切。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 548,
+    "chapter": "齿轮传动",
+    "type": "判断题",
+    "question": "斜齿圆柱齿轮在各个直径圆柱上的螺旋角大小相等。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 549,
+    "chapter": "齿轮传动",
+    "type": "判断题",
+    "question": "两直齿圆柱齿轮啮合线为一斜线，啮合时啮合线由短变长，退出时啮合线由长变短。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 550,
+    "chapter": "齿轮传动",
+    "type": "判断题",
+    "question": "直齿锥齿轮不产生根切的最少齿数比直齿圆柱齿轮的更多。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 551,
+    "chapter": "模拟试卷25-26-2",
+    "type": "单选题",
+    "question": "在轴连接中能够起到周向和轴向定位的是( )。",
+    "options": [
+      "套筒",
+      "轴肩",
+      "挡环",
+      "紧定螺钉"
+    ],
+    "answer": "D",
+    "explanation": "紧定螺钉既能实现周向定位又能实现轴向定位。轴肩只能轴向定位；套筒也主要用于轴向定位；挡环用于轴向固定。"
+  },
+  {
+    "id": 552,
+    "chapter": "模拟试卷25-26-2",
+    "type": "单选题",
+    "question": "淬火后的工件，经高温回火后，淬火应力可以完全消除，具有良好的综合力学性能。高温回火的温度范围是（ ）。",
+    "options": [
+      "500~650℃",
+      "600~750℃",
+      "250~450℃",
+      "550~700℃"
+    ],
+    "answer": "A",
+    "explanation": "高温回火的温度范围是500~650℃。250~450℃为中温回火，低温回火为150~250℃。"
+  },
+  {
+    "id": 553,
+    "chapter": "模拟试卷25-26-2",
+    "type": "单选题",
+    "question": "力偶对物体产生的运动效应为( )。",
+    "options": [
+      "只能使物体转动",
+      "只能使物体移动",
+      "既能使物体转动，又能使物体移动",
+      "它与力对物体产生的运动效应有时相同，有时不同"
+    ],
+    "answer": "A",
+    "explanation": "力偶只能使物体转动，不能产生移动效应。力偶在任意坐标轴上的投影之和为零，因此没有合力。"
+  },
+  {
+    "id": 554,
+    "chapter": "模拟试卷25-26-2",
+    "type": "单选题",
+    "question": "在径向滑动轴承中，采用可倾瓦的目的在于（ ）。",
+    "options": [
+      "便于装配",
+      "使轴承具有自动调位能力",
+      "提高轴承的稳定性",
+      "增加润滑油流量，降低温升"
+    ],
+    "answer": "C",
+    "explanation": "可倾瓦的主要目的是提高轴承的稳定性。可倾瓦能够自动适应轴颈的位置变化，从而抑制油膜振荡。"
+  },
+  {
+    "id": 555,
+    "chapter": "模拟试卷25-26-2",
+    "type": "单选题",
+    "question": "机器中各运动单元称为（ ）。",
+    "options": [
+      "零件",
+      "部件",
+      "机件",
+      "构件"
+    ],
+    "answer": "D",
+    "explanation": "构件是机器的运动单元体，而零件是机器的制造单元体。"
+  },
+  {
+    "id": 556,
+    "chapter": "模拟试卷25-26-2",
+    "type": "单选题",
+    "question": "液压传动中，常用的工作介质是（ ），系统用它来传递（ ）。",
+    "options": [
+      "活塞、压力",
+      "液压油、压力",
+      "活塞、运动",
+      "液压油、运动"
+    ],
+    "answer": "D",
+    "explanation": "液压传动以液压油为工作介质，通过液压油传递运动。"
+  },
+  {
+    "id": 557,
+    "chapter": "模拟试卷25-26-2",
+    "type": "单选题",
+    "question": "标准直齿轮不根切的最小齿数为（ ）。",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "answer": "D",
+    "explanation": "正常标准渐开线直齿圆柱齿轮不产生根切的最少齿数为17。"
+  },
+  {
+    "id": 558,
+    "chapter": "模拟试卷25-26-2",
+    "type": "单选题",
+    "question": "实心圆轴的直径增大一倍，则最大扭转切应力（ ）。",
+    "options": [
+      "增加为原来的16倍",
+      "增加为原来的8倍",
+      "下降为原来的1/16",
+      "下降为原来的1/8"
+    ],
+    "answer": "D",
+    "explanation": "实心圆轴最大扭转切应力τmax=T/Wt，Wt∝d³。d增大一倍，Wt增大为原来的8倍，τmax下降为原来的1/8。"
+  },
+  {
+    "id": 559,
+    "chapter": "模拟试卷25-26-2",
+    "type": "多选题",
+    "question": "轴系支点的轴向固定结构形式有三类（ ）。",
+    "options": [
+      "两端固定",
+      "一端固定、一端游动",
+      "两端游动",
+      "两端浮动"
+    ],
+    "answer": "ABC",
+    "explanation": "轴系支点轴向固定的三种结构形式为：两端固定、一端固定一端游动、两端游动。"
+  },
+  {
+    "id": 560,
+    "chapter": "模拟试卷25-26-2",
+    "type": "多选题",
+    "question": "根据力的作用线是否共面，可以分为（ ）（ ）。",
+    "options": [
+      "平行力系",
+      "平面力系",
+      "空间力系",
+      "汇交平行力系"
+    ],
+    "answer": "BC",
+    "explanation": "根据力的作用线是否在同一平面内，可分为平面力系和空间力系两大类。"
+  },
+  {
+    "id": 561,
+    "chapter": "模拟试卷25-26-2",
+    "type": "多选题",
+    "question": "轮系的功用有（ ）。",
+    "options": [
+      "运动合成",
+      "运动分解",
+      "变速",
+      "变向"
+    ],
+    "answer": "ABCD",
+    "explanation": "轮系可以实现：运动合成、运动分解、变速、变向等多种功能。"
+  },
+  {
+    "id": 562,
+    "chapter": "模拟试卷25-26-2",
+    "type": "多选题",
+    "question": "属于平键有（ ）。",
+    "options": [
+      "普通平键",
+      "导向键",
+      "花键",
+      "滑键"
+    ],
+    "answer": "ABD",
+    "explanation": "普通平键、导向键、滑键都属于平键。花键是独立的一类连接。"
+  },
+  {
+    "id": 563,
+    "chapter": "模拟试卷25-26-2",
+    "type": "判断题",
+    "question": "铰链四杆机构中有2个曲柄的就是双曲柄机构。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "√ 正确。有两个连架杆都是曲柄的铰链四杆机构称为双曲柄机构。"
+  },
+  {
+    "id": 564,
+    "chapter": "模拟试卷25-26-2",
+    "type": "判断题",
+    "question": "平键联接工作时，是靠键和键槽侧面的挤压传递转矩的。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "√ 正确。平键的工作面是两侧面，靠侧面挤压传递转矩。"
+  },
+  {
+    "id": 565,
+    "chapter": "模拟试卷25-26-2",
+    "type": "判断题",
+    "question": "当梁的材料是钢时，一般选用工字形的截面形状；若是铸铁，一般采用T形的截面形状。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "√ 正确。钢材抗拉抗压能力相当，用工字形截面；铸铁抗压不抗拉，用T形截面使受拉区域小。"
+  },
+  {
+    "id": 566,
+    "chapter": "模拟试卷25-26-2",
+    "type": "判断题",
+    "question": "为了节省成本，换带时只需更换不能使用的传动带即可。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "B",
+    "explanation": "× 错误。更换传动带时应成套更换，不能只换一根。"
+  },
+  {
+    "id": 567,
+    "chapter": "模拟试卷25-26-2",
+    "type": "判断题",
+    "question": "对非分离型轴承的内圈从紧配合轴上拆卸时，较多使用拉拔器工具。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "√ 正确。拆卸紧配合轴承内圈时应使用拉拔器（拉马/拔轮器），避免直接敲击。"
+  },
+  {
+    "id": 568,
+    "chapter": "模拟试卷25-26-2",
+    "type": "判断题",
+    "question": "齿轮毛坯制造方法有铸造和锻造。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "answer": "A",
+    "explanation": "√ 正确。齿轮毛坯常用铸造和锻造两种方法制造。"
+  },
+  {
+    "id": 569,
+    "chapter": "模拟试卷25-26-2",
+    "type": "填空题",
+    "question": "常见汽油的牌号有哪些，数字表示什么含义？（简答题）",
+    "options": [],
+    "answer": "92号、95号、98号等|数字表示汽油的辛烷值，辛烷值越高，抗爆震性能越好",
+    "explanation": "常见汽油牌号：92号、95号、98号。数字代表辛烷值（RON），反映汽油的抗爆震性能，数值越高抗爆性越好。"
+  },
+  {
+    "id": 570,
+    "chapter": "模拟试卷25-26-2",
+    "type": "填空题",
+    "question": "写出普通平键链接的装配顺序。（简答题）",
+    "options": [],
+    "answer": "清洁键槽→将键装入轴槽中→对准轮毂键槽→将轮毂推入|安装后检查键的侧面间隙和顶面间隙",
+    "explanation": "平键装配顺序：1.清洁轴和轮毂的键槽；2.将键轻敲入轴槽中；3.对准轮毂键槽，将轮毂推入轴上；4.检查键与键槽的配合是否正确。"
+  },
+  {
+    "id": 571,
+    "chapter": "模拟试卷25-26-2",
+    "type": "填空题",
+    "question": "简述键连接的类型及应用特点。（简答题）",
+    "options": [],
+    "answer": "平键连接：用于一般轴毂连接，靠侧面传递扭矩|半圆键连接：可摆动，用于锥形轴|楔键连接：靠摩擦力传递扭矩，用于低速|花键连接：承载能力强，导向性好，用于汽车变速箱",
+    "explanation": "键连接类型：1.平键连接—最常用，靠侧面挤压传力；2.半圆键连接—可在键槽中摆动，适用于锥形轴；3.楔键连接—靠上下表面摩擦力传力，适用于低速；4.花键连接—承载大、导向性好，广泛应用于汽车变速器。"
+  },
+  {
+    "id": 572,
+    "chapter": "模拟试卷25-26-2",
+    "type": "填空题",
+    "question": "离合器主要由那几部分组成？（简答题）",
+    "options": [],
+    "answer": "主动部分|从动部分|压紧机构|操纵机构|分离机构",
+    "explanation": "离合器主要由五部分组成：主动部分、从动部分、压紧机构、操纵机构和分离机构。"
+  },
+  {
+    "id": 573,
+    "chapter": "模拟试卷25-26-2",
+    "type": "填空题",
+    "question": "有一对正常齿制的标准直齿圆柱齿轮，大齿轮遗失，小齿轮数Z1=30，m=2.5mm，两齿轮的传动比为1.8，试求大轮的模数m和齿数Z2。（计算题）",
+    "options": [],
+    "answer": "m=2.5mm|Z2=54",
+    "explanation": "解：标准齿轮传动中，两齿轮模数相同，所以m=2.5mm。由传动比公式 i12=Z2/Z1=1.8，得Z2=1.8×30=54。"
+  },
+  {
+    "id": 574,
+    "chapter": "模拟试卷25-26-2",
+    "type": "填空题",
+    "question": "求杆件在截面1-1处所受的内力是多少？见材料力学基础第42题图。（计算题）",
+    "options": [],
+    "answer": "-5KN",
+    "explanation": "拉力为正，压力为负，截面1-1处受压力，内力为-5KN。",
+    "image": "https://raw.githubusercontent.com/1145225/idn/main/2.材料力学基础作业/第四十二题.png"
+  },
+  {
+    "id": 575,
+    "chapter": "模拟试卷25-26-2",
+    "type": "填空题",
+    "question": "某机械制造企业发现齿轮长时间使用后经常出现磨损、断裂等失效现象。如何解决？（资料题）",
+    "options": [],
+    "answer": "提高齿轮材料强度|优化齿轮热处理工艺|改善润滑条件|定期检查和更换",
+    "explanation": "解决措施：1.选用更好材料或进行表面强化处理（渗碳、渗氮）；2.改善热处理工艺；3.保证润滑条件（选择合适的润滑油）；4.避免过载使用；5.定期检修更换。"
+  },
+  {
+    "id": 576,
+    "chapter": "模拟试卷25-26-2",
+    "type": "填空题",
+    "question": "画出下列各球体的受力图。各接触处都是光滑的。（资料题）",
+    "options": [],
+    "answer": "画出球体受重力G和光滑接触面的法向反力N|光滑接触面反力沿接触面法线方向",
+    "explanation": "光滑球体受力分析：受重力G（竖直向下），光滑接触面的法向约束反力N（垂直于接触面指向球心）。"
+  },
+  {
+    "id": 577,
+    "chapter": "模拟试卷25-26-2",
+    "type": "填空题",
+    "question": "连线题：将液压元件与功能连线。①换向阀 ②蓄能器 ③液压泵 → A.储存压力油 B.控制液压油流动方向 C.将机械能转换为液压能",
+    "options": [],
+    "answer": "1-B|2-A|3-C",
+    "explanation": "换向阀→控制液压油的流动方向(B)；蓄能器→储存压力油，稳定系统压力(A)；液压泵→将机械能转换为液压能(C)。"
+  },
+  {
+    "id": 578,
+    "chapter": "模拟试卷25-26-2",
+    "type": "填空题",
+    "question": "连线题：将公差配合术语与解释连线。①间隙配合 ②过盈配合 ③过渡配合 → A.孔的公差带完全在轴的公差带之上 B.孔和轴的公差带相互交叠 C.孔的公差带完全在轴的公差带之下",
+    "options": [],
+    "answer": "1-A|2-C|3-B",
+    "explanation": "间隙配合→孔的公差带完全在轴的公差带之上(A)；过盈配合→孔的公差带完全在轴的公差带之下(C)；过渡配合→孔和轴的公差带相互交叠(B)。"
+  },
+  {
+    "id": 579,
+    "chapter": "模拟试卷25-26-2",
+    "type": "填空题",
+    "question": "连线题：将机械零件与用途连线。①滚动轴承 ②弹簧 ③螺栓 ④齿轮 ⑤密封圈 → A.可拆卸连接 B.密封防泄漏 C.储存释放能量起缓冲 D.传递运动和动力 E.支撑旋转轴减摩擦",
+    "options": [],
+    "answer": "1-E|2-C|3-A|4-D|5-B",
+    "explanation": "滚动轴承→支撑旋转轴并减少摩擦(E)；弹簧→储存和释放能量(C)；螺栓→可拆卸连接(A)；齿轮→传递运动和动力(D)；密封圈→密封防止泄漏(B)。"
+  },
+  {
+    "id": 580,
+    "chapter": "模拟试卷25-26-2",
+    "type": "填空题",
+    "question": "连线题：把传动方式与特点连线。①带传动 ②链传动 ③齿轮传动 → A.传动比准确效率高 B.结构简单缓冲吸振 C.适合恶劣环境传动比准确",
+    "options": [],
+    "answer": "1-B|2-C|3-A",
+    "explanation": "带传动→结构简单，能缓冲吸振(B)；链传动→能在恶劣环境工作，传动比准确(C)；齿轮传动→传动比准确，效率高(A)。"
+  }
+];
